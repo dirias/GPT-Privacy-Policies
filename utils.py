@@ -2,6 +2,10 @@
 import requests
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
+import nltk
+from nltk.tokenize import sent_tokenize
+
+nltk.download('punkt')
 
 DATA_SOURCE_URL = "https://raw.githubusercontent.com/citp/privacy-policy-historical/master/0/00/000/000domains.com.md"
 
@@ -29,7 +33,7 @@ def generate_input_text(KEY_TERMS):
     
 def generate_summary(policy_text, model, tokenizer, MAX_LENGTH,summary_length=3):
     # Split the policy text into paragraphs, line by line
-    paragraphs = [line.strip() for line in policy_text.split('\n') if line]
+    paragraphs = sent_tokenize(policy_text)
     # Tokenize the paragraphs
     encodings = tokenizer(paragraphs, truncation=True, padding='max_length', max_length=MAX_LENGTH, return_tensors="tf")
     # To see decoded information
