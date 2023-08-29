@@ -7,8 +7,8 @@ class TransformerBlock(tf.keras.layers.Layer):
     def __init__(self, embed_size, heads, dropout, forward_expansion):
         super(TransformerBlock, self).__init__()
         self.attention = MultiHeadSelfAttention(embed_size, heads)
-        self.norm1 = tf.keras.layers.LayerNormalization(epsilon=1e-6)
-        self.norm2 = tf.keras.layers.LayerNormalization(epsilon=1e-6)
+        self.norm1 = tf.keras.layers.LayerNormalization(epsilon=1e-6) #0.000001
+        self.norm2 = tf.keras.layers.LayerNormalization(epsilon=1e-6) # 0.000001
 
         self.feed_forward = tf.keras.Sequential([
             Dense(forward_expansion * embed_size, activation="relu"),

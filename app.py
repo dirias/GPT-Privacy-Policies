@@ -21,7 +21,6 @@ user_input = st.text_input("Enter the text you want to summary:")
 # Display the entered text (if any)
 if user_input:
     try:
-        import pdb; pdb.set_trace()
         summary = generate_summary(user_input, loaded_model, tokenizer, MAX_LENGTH, summary_length=4)
         st.write(f"The summarized text is \n: {summary}")
     except Exception as ex:

@@ -35,6 +35,12 @@ class MultiHeadSelfAttention(tf.keras.layers.Layer):
 
         # Scaled dot-product attention
         attention = tf.einsum("nqhd,nkhd->nhqk", queries, keys)
+        """
+        n: Dimensión del lote.
+        q: Dimensión que representa las consultas.
+        h: Dimensión que representa las cabezas.
+        d: Dimensión que representa las dimensiones de la cabeza (tamaño del subvector).
+        """
         if mask is not None:
             # Convert mask to float type
             mask = tf.cast(mask, dtype=tf.float32)

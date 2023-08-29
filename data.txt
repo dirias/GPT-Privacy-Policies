@@ -1,0 +1,1815 @@
+The following text is extracted and transformed from the 000domains.com privacy policy that was archived on 2019-06-29.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy | Endurance International Group
+
+Table of Contents
+
+About Us
+
+The Endurance International Group, Inc. and our subsidiaries (“we,” “us” or “Endurance”) are a leading provider of online tools for small businesses to establish and build their web presence, get found in online search, and connect with customers through social media, email marketing, and more.
+Our brands include Constant Contact, Bluehost, HostGator, Domain.com, iPage, and others found at https://www.endurance.com/our-brands/.
+We care about protecting the personal information of our customers and visitors who use our websites, products or services (collectively, our “Users”).
+This privacy policy provides details about how your personal information is collected, shared and used by us.
+To learn more about the Endurance corporate family, visit: https://www.endurance.com.
+If you have any questions about this privacy policy or the practices described herein, you may contact privacy@endurance.com or 10 Corporate Drive, Burlington, MA 01803.
+For the purposes of the European Union’s General Data Protection Regulation 2016/679, or GDPR, The Endurance International Group, Inc. and each of the brands for which you have signed up for a product or service are the data controller, and our European local representative is AppMachine B.V., located at Sophialaan 32, 8911 AE Leeuwarden, Nederland.
+Information Covered by this Privacy notice
+
+This privacy policy covers personal information, including any information we collect, use and share from you, as described further below.
+This privacy policy applies to all websites in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”).
+This privacy policy does not cover how our Users may use or share data that they collect using our services.
+When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy policy as well as the following addendums related to particular products and services offered by Endurance, which are a part of this privacy policy:
+
+  Addendum for Users who purchased services from Constant Contact
+  Addendum for Users who purchased Domain Registration services, including from Domain.com
+  Addendum for Users who purchased services from SinglePlatform
+
+
+
+Information We Collect From You
+
+In the course of your use of the Services, we obtain the following information about you as described below.
+We collect this data for the purposes described under “How We Use Your Information”.
+Signing Up for Services; User Information
+
+  Information you provide prior to any registration process, such as your email when you provide it to us;
+  Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry), when you call or email us (for support or otherwise) or when you use our products or services; and
+  Payment information that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services, including credit card data.
+Use of Services, Website Visits and Support
+
+  Data relating to your online activity on our websites with respect to our Services, including the following:
+          IP address
+      browser type and version
+      geographic location
+      pages you view
+      how you got to our Services and any links you click on to leave our Services
+      when you update your information, communicate with us, or order new Services
+      metadata about your use and your contacts’ use of our Services and your emails you send (including clicks and opens)
+      your interactions with any videos we offer
+      issues you encounter requiring our support or assistance
+      any device or other method of communication you use to interact with the Services
+
+We store this data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
+Your telephone conversations with us (which we may monitor or record).
+Information from third party social networking sites, including information that social networking sites provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
+The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site.
+You can control and find out more about these privacy settings at the applicable social networking site.
+Other Sources
+
+  Information you provide to us at seminars or to our partners;
+  Information you provide to us in surveys;
+  Information that is publicly available; and
+  Information you consent to us receiving from third parties.
+How We Use Your Information
+
+We use the information we collect, both on its own and combined with any other information we collect about you, for the following purposes:
+
+  To provide the requested Services to you;
+  To provide you with useful content;
+  To ensure the proper functioning of our Services
+  To offer and improve our Services;
+  To provide you with requested information or technical support
+  To facilitate your movement through our websites or your use of our Services;
+  To do a better job of advertising and marketing our Services (our use of your information to do this is performed with your consent where required by applicable law);
+  To advertise and market third party products and services (such advertisement is only performed with your permission where your consent is required by applicable law)
+  To diagnose problems with our servers or our Services;
+  In connection with our security and compliance programs;
+  To administer our websites;
+  To communicate with you;
+  To target prospective customers with our products or services (such targeting is only performed with your permission where your consent is required by applicable law);
+  To assist us in offering you a personalized experience or otherwise tailor our Services to you; and
+  As otherwise described in this privacy policy.
+We also use the information we receive in aggregated and anonymized formats to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
+Payment information that you provide to us, including credit card data, will only be used to facilitate payment for our products and services.
+We also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection.
+Sharing of Information
+
+As further described below, we will only share certain personal information with:
+
+  other members of the Endurance corporate family;
+  our partners;
+  third party service providers and vendors;
+  in connection with a sale, merger, acquisition or corporate reorganization;
+  authorized users within your organization; and
+  for legal reasons.
+Further information about the third parties with whom we share personal information is available here.
+Sharing within the Endurance Corporate Family
+
+We share personal information with other members of the Endurance corporate family to allow our corporate affiliates to contact you with offers, services or products that may be of interest to you and to provide you with their products and services.
+Any such corporate affiliate may use your information only according to the terms of this privacy policy.
+If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent.
+Sharing with Partners
+
+When we share personal information with certain third-party partners, including marketing and advertising partners, that information includes your name, email address and other information enabling partners to:
+
+  assist you in using our products and services,
+  contact you with offers, services or products that may be of interest to you, and
+  provide you with their products or services.
+If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent.
+Please note that if you access our services through a tool that hides your location, such as through a virtual private network, you may not receive our request for permission because we were not able to identify you as being located in a jurisdiction where your permission is required.
+Further, our partners are prohibited from using your contact information for any purpose beyond those set forth above without your consent.
+We will not provide our partners with your credit card information.
+Further information about certain partners we share personal information with is available here.
+In the event we collect information from you in connection with an offer that is jointly presented by us and a partner, we will let you know who is collecting the information and whose privacy policy applies, as well as any options you may have regarding use of your information.
+Sharing with Third Party Service Providers and Vendors
+
+Occasionally, we enter into contracts with carefully selected third parties so that they can assist us in servicing you (for example, providing you with customer service, fraud detection and deterrence or access to advertising assets and providing us with information technology and storage services) or to assist us in our own marketing and advertising activities (including providing us with analytic information and search engine optimization services).
+Additional information about certain third-party service providers we share personal information with is available here.
+Our contracts with such third parties prohibit them from using any of your personal information for any purpose beyond the purpose for which it was shared.
+If you purchase a product or service from a third party through one of our brands, we will pass your personal information to such third party in order for them to fulfill your order.
+We also share non-personal information with certain third parties, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners.
+For example, we disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
+Corporate Reorganizations
+
+If we are involved in a merger, acquisition, a sale of all or a substantial portion of our assets, or other similar sale transaction, your information will be transferred as part of that transaction.
+We will notify you by email and/or a prominent notice on our website of any such transfer and any choices you may have regarding your information.
+All users authorized by you to have access to your account can view personal information stored in the account.
+A primary account holder can view personal information saved in subaccounts to which they have authorized access.
+We share information about authorized users only for legitimate purposes consistent with this privacy policy, including servicing your account and marketing products and services to you.
+Legal Process
+
+Lastly, if legally required to do so, or if we have a good faith belief that such disclosure is reasonably necessary, we may disclose your personal information to courts of law, law enforcement authorities and other relevant third parties, such as internet service providers, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be:
+
+  violating our terms and conditions of use;
+  causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties; or
+  violating federal, state, local, or other applicable law.
+This disclosure can include transferring your information to the U.S. and other countries outside the European Economic Area.
+To the extent we are legally permitted to do so, it is our policy to notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
+Security
+
+The transmission of information via the internet, email or text message is not completely secure.
+Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted through the Services or over email; any transmission is at your own risk.
+Once we have received your information, we will take appropriate technical and organizational measures to safeguard your personal information against loss, theft and unauthorized use, access or modification.
+When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.
+Tracking Technologies and Online Advertising
+
+We use cookies, web beacons, pixels, tags, scripts and other similar technologies in the course of our business.
+Information about the technologies we use, why we use them (for example, in connection with online advertising), and how you can control them can be found in our Cookie Policy.
+Choice/Opt-out
+
+Marketing Communications from Us
+
+Email
+
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at privacy@endurance.com.
+Some communications from us are considered transactional or service communications (for example, important account notifications and billing information), and your account(s) for Endurance products and services are provided to you upon the condition that you receive these communications from us.
+You must cancel your account(s) for Endurance products and services, as applicable, if you do not wish to receive any transactional or service communications.
+To cancel your Endurance account(s), please follow the instructions found in the terms of service for the applicable Endurance service.
+You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+Phone
+
+We may contact you by telephone, with your consent where applicable, for marketing purposes (including by automatic dialer and/or prerecorded message).
+If you do not want to receive marketing calls, please contact customer support at the brand from which you purchased your Services.
+You do not need to agree to receive automated marketing phone calls or texts from us to use the Services.
+Cookies
+
+For information about how to manage and opt out from cookies, please visit our Cookie Policy.
+Information from Third Parties
+
+To manage the information we receive about you from a social networking site or other third parties (if applicable), you will need to follow the instructions from that party for updating your information and changing your privacy settings, where available.
+The information we collect is covered by this privacy policy and the information the third party collects is subject to such third party’s privacy practices.
+Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Services.
+Unauthorized Accounts
+
+If an account or profile was created without your knowledge or authorization, please contact customer support at the brand on which the account or profile is located to request removal of the account or profile.
+Retention of Personal Information
+
+We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your personal information for no more than seven years following the later of (i) the date on which you terminate your use of the Services or (ii) May 25, 2018, unless we are otherwise required by law or regulation to retain your personal information for longer.
+Legal Basis for Processing Your Information
+
+Depending on what information we collect from you and how we collect it, we rely on various grounds for doing processing your information under the GDPR, including the following reasons:
+
+  In order to administer our contractual relationship, including setting up your requested Services, payments, renewals and processes;
+  Because it is in our legitimate interest to run a successful and efficient business and provide you with the Services and other useful content;
+  In order to fulfill any legal obligations we may have to collect this information from you; and/or
+  Because you have provided your consent for us to do so.
+Your Rights
+
+Where the European Union’s General Data Protection Regulation 2016/679, or GDPR, applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you.
+We set out below an outline of those rights and how to exercise those rights.
+Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder.
+To exercise any of your rights, please send an email to privacy@endurance.com or visit the Privacy Center.
+Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+Access
+
+You have the right to know whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
+Portability
+
+You have the right to receive a subset of the personal information you provide us if we process it on the legal bases of our contract with you or with your consent in a structured, commonly used and machine-readable format and a right to request that we transfer such personal information to another party.
+If you wish for us to transfer the personal information to another party, please ensure you detail that party and note that we can only do so where it is technically feasible.
+We are not responsible for the security of the personal information or its processing once received by the third party.
+Correction
+
+You have the right to require us to correct any personal information held about you that is inaccurate and have incomplete data completed.
+Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required.
+Please note that while we assess whether the personal information we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
+Erasure
+
+You may request that we erase the personal information we hold about you in the following circumstances:
+
+  where you believe it is no longer necessary for us to hold the personal information;
+  we are processing it on the basis of your consent and you wish to withdraw your consent;
+  we are processing your data on the basis of our legitimate interest and you object to such processing;
+  you no longer wish us to use your data to send you marketing; or
+  you believe we are unlawfully processing your data.
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure.
+Restriction of Processing to Storage Only
+
+You have a right to require us to stop processing the personal information we hold about you other than for storage purposes in the following circumstances:
+
+  You believe the personal information is not accurate for the period it takes for us to verify whether the data is accurate;
+  We wish to erase the personal information as the processing we are doing is unlawful but you want us to simply restrict the use of that data;
+  We no longer need the personal information for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims; or
+  You have objected to us processing personal information we hold about you on the basis of our legitimate interest and you wish us to stop processing the personal information while we determine whether there is an overriding interest in us retaining such personal information.
+Objection
+
+You have the right to object to our processing of data about you and we will consider your request.
+Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+You also have the right, at any time, to object to our processing of data about you in order to send you marketing, including where we build profiles for such purposes and we will stop processing the data for that purpose.
+Withdrawal of Consent
+
+Where you have provided your consent to us processing your personal data, you can withdraw your consent at any time by visiting the Privacy Center.
+Third Party Links and Information Collection and Use by Our Users
+
+Some of our Services provide links to other websites.
+Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.
+You may also log in to some of our Services using sign-in services such as Facebook Connect or an Open ID provider.
+These services will authenticate your identity and provide you with the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form.
+For example, if you take advantage of certain of our social media features, such as the Facebook Like button, and widgets, such as the “Share This” button or interactive mini-programs that run on our site, the applicable social networking sites may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable it to function properly.
+Children
+
+Our Services are not directed to persons under 18.
+We do not knowingly collect personal information from children under 18.
+If a parent or guardian becomes aware that his or her child has provided us with personal information without such parent or guardian’s consent, he or she should contact us.
+If we become aware that a child under 18 has provided us with personal information, we will delete such information from our files.
+Data Transfer
+
+In order for us to provide the Services to you, your personal information will be transferred to, and stored at/processed in the United States.
+Your personal data is also processed by staff operating outside the European Economic Area (EEA), such as in India and the Philippines, who work for us or for one of our suppliers.
+We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.
+For transfers of personal information within the Endurance corporate family, such transfer will be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU.
+For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU; or (ii) rely on the EU-US Privacy Shield Framework.
+Endurance’s Constant Contact participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”).
+Constant Contact is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.
+To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
+Constant Contact is responsible for the processing of personal data they receive under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on behalf of Constant Contact.
+Constant Contact complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Constant Contact is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+You can contact the Data Protection Officer listed below to obtain a copy of the data transfer agreement or more information regarding the relevant safeguard we put in place.
+For more information about the EU-US Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield website.
+Complaints
+
+In the event that you wish to make a complaint about how we process your personal information, please contact our Data Protection Officer at privacy@endurance.com and we will try to deal with your request.
+This is without prejudice to your right to raise a complaint with the Dutch Supervisory Authority (Autoriteit Persoonsgegevens) by contacting:
+
+Autoriteit Persoonsgegevens  
+Postbus 93374  
+2509 AJ DEN HAAG
+
+Telephone: (+31) – (0)70 – 888 85 00  
+Fax: (+31) – (0)70 – 888 85 01
+
+Notification of Changes
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently.
+If we decide to change this privacy policy in any material way, we will notify you here, by email, or by means of a notice on www.endurance.com or the website of the Endurance product or service you use prior to the change becoming effective.
+In all cases, your continued use of any Services constitutes acceptance to any such changes.
+Last modified February 8, 2018
+
+The following text is extracted and transformed from the 000filehost.com privacy policy that was archived on 2019-07-12.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+PRIVACY POLICY – 000FILEHOST
+
+This Privacy Policy governs the manner in which 000filehost collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://000filehost.com website (“Site”).
+Personal identification information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, email address, mailing address, phone number.
+Users may, however, visit our Site anonymously.
+We will collect personal identification information from Users only if they voluntarily submit such information to us.
+Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site.
+Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Web browser cookies
+
+Our Site may use “cookies” to enhance User experience.
+User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them.
+User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
+If they do so, note that some parts of the Site may not function properly.
+How we use collected information
+
+000filehost may collect and use Users personal information for the following purposes:
+
+  To run and operate our Site  
+We may need your information display content on the Site correctly.
+To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+To improve our Site  
+We may use feedback you provide to improve our products and services.
+To run a promotion, contest, survey or other Site feature  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+To send periodic emails  
+We may use the email address to send User information and updates pertaining to their order.
+It may also be used to respond to their inquiries, questions, and/or other requests.
+How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others.
+We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Electronic newsletters
+
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
+If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties.
+We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
+In addition, these sites or services, including their content and links, may be constantly changing.
+These sites and services may have their own privacy policies and customer service policies.
+Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and conditions.
+Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies.
+These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer.
+This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
+This privacy policy does not cover the use of cookies by any advertisers.
+Google Adsense
+
+Some of the ads may be served by Google.
+Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet.
+DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc.
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+Changes to this privacy policy
+
+000filehost has the discretion to update this privacy policy at any time.
+When we do, we will post a notification on the main page of our Site.
+We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
+You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy.
+If you do not agree to this policy, please do not use our Site.
+Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+This policy was generated using PrivacyPolicies.Com
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please  contact us.
+This document was last updated on September 20, 2015
+The following text is extracted and transformed from the 000webhost.com privacy policy that was archived on 2019-12-25.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Free Web Hosting, Domain Names, VPS | 000Webhost
+
+  
+
+
+Your Privacy is our Utmost Priority
+
+000WEBHOST.COM - PRIVACY POLICY
+
+RESPECTS YOUR PRIVACY
+
+1\.
+INTRODUCTION
+
+HOSTINGER.
+a Cyprus private limited company, legal address, 61 Lordou Vironos st. 6023 Larnaca, Cyprus (" 000WEBHOST"), provides you web-hosting, domain name registration, and related products and service.
+000WEBHOST seeks to ensure the highest level of data privacy when offering its variety of quality products and services to subscribers (" Subscribers") and visitors (" Visitors") (collectively, " Users").
+At 000WEBHOST, the privacy and security of our Users is of paramount importance.
+000WEBHOST is committed to protecting the data you share with us.
+When this Policy mentions " 000WEBHOST", " we," " us", or " our", it refers to 000WEBHOST that is responsible for protection of your personal information in line with this Privacy Policy (the " Data Controller").
+This Privacy Policy (" Policy") explains how 000WEBHOST processes information that can be used to directly or indirectly identify an individual (" Personal Data") collected on our Site, forums and our mobile applications (" Platform").
+All personal data are processed in accordance with the General Data Protection Regulation (EU) 2016/679 and EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, designed by the U.S. Department of Commerce and the European Commission and Swiss Administration.
+For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at gdpr@hostinger.com.
+2\.
+GENERAL PRINCIPLES.
+CONFIDENTIALITY
+
+000WEBHOST shall process all Personal Data adhering to the general data processing principles:
+
+  lawfully, fairly and in a transparent manner in relation to the data subject ( lawfulness, fairness, and transparency);
+  collect and process Personal Data only for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes ( purpose limitation);
+  ensure that Personal Data is adequate, relevant and limited to what is necessary for relation to the purposes for which they are processed ( data minimization);
+  ensure that Personal Data is accurate and, where necessary, kept up to date ( accuracy);
+  ensure that Personal Data is kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed ( storage limitation);
+  process Personal Data in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures ( integrity and confidentiality).
+All and any information stored on 000WEBHOST's Platform is treated as strictly confidential.
+All information is stored securely and is accessed by qualified and authorized personnel only.
+3\.
+INFORMATION WE COLLECT
+
+3.1.
+Information You provide to us.
+Information that is necessary for the use of the 000WEBHOST Platform
+
+We ask for and collect the following personal information about you when you use the 000WEBHOST Platform.
+This information is necessary for the adequate performance of the contractual arrangement which is in place between you and us and to allow us to comply with our legal obligations.
+Failing to provide any of this data or decision to delete or object to the processing of any of such data may result in de-activation of your 000WEBHOST Account.
+Account Signup Information.When you sign up to 000WEBHOST, we require you to provide minimum information - email address and password.
+In some particular cases we ask you to provide more information - such as your first and last name, identity verification, contact details.
+Such information is required when you are applying for a registration of domain name and indicated as the WHOIS information.
+Login information.We collect Login scope and Email scope from Google, please see <https://developers.google.com/+/web/api/rest/oauth#profile> and email from Facebook.
+Identity Verification.To comply with the rules set forth by the Internet Corporation for Assigned Names and Numbers ("ICANN") before the registration of the new domain name, 000WEBHOST may collect identity verification information (such as images of your passport, national ID card, valid driving license or other documents as required or permitted by applicable laws).
+Payment Information.To order and use features of the 000WEBHOST Platform (such as web-hosting, domain name registration), we may require you to provide certain financial information in order to facilitate the processing of payments.
+We use 3rd party (payment processor) services, so we do not collect and store credit card information (we receive information about the payment status and store only last 4 credit card digits).
+Communications, Chats, Messaging.When you communicate with 000WEBHOST (using general inquiries window), we collect information about your communication and any information you choose to provide or disclose.
+In order to respond to your request, we may access information provided in your 000WEBHOST Account, purchase history, etc.
+Job applicants' information.We also collect information that you provided to us by applying to any of the open career positions published at <https://www.hostinger.com/career>, by e-mail or otherwise.
+For more details see Section 5 below.
+You may also choose to provide us information when you fill in a form, conduct a search, update or add information to your 000WEBHOST Account, respond to surveys, post to community forums, participate in promotions, or use other features of the 000WEBHOST Platform.
+000WEBHOST processes information you provide to us on the legal basisof:
+
+  Your consent, expressed when voluntarily submitting and filling your Personal Data details in sign-up forms, by e-mail, request or inquiries window, etc.
+; and
+  Conclusion and performance of contractual arrangements and obligations between 000WEBHOST and the User;
+  Pursuance of legitimate interests of 000WEBHOST, as Data Controller and manager of 000WEBHOST platform;
+  Compliance with a legal obligation to which 000WEBHOST is subject, including, but not limited to, ICANN rules: <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>
+
+
+
+Disclaimer
+
+Please always take care and observe at least the following minimum requirements for the protection of your personal information:
+
+  please omit using your name, address, telephone number, e-mail, personal identification number, date of birth, bank Account number, card number, other special (sensitive) data, etc.
+in the subject of the request or file name;
+  please omit using your personal code, payment card number, and other financial information and details, health, family member details, or other specific (sensitive) data, in the texts of requests, e-mails or similar communication to us, and
+  please make sure that the remaining personal data is only indicated to the extent necessary for the purposes for which the letter, request or inquiry is sent.
+Right to delete your data
+
+You may at any time access and edit, update or delete your contact details by logging into your 000WEBHOST's platform Account.
+Please note that you will only be able to delete your email during de-activation of your 000WEBHOST Account.
+To deactivate your Account, please send your request to gdpr@hostinger.com, and you will be provided with further guidance.
+3.2.
+Information We Collect when You use the Platform
+
+When you use the 000WEBHOST Platform or contact us directly by any communication channel, we may collect information, including personal information, about the services you use and how you use them.
+This information is necessary for the adequate performance of the contract between you and us, to enable us to comply with legal obligations and given our legitimate interest in being able to provide and improve the functionalities of the 000WEBHOST Platform.
+With your consent
+
+  Geo-location data.We collect information about your approximate location as determined by data such as your IP address to offer you an improved user experience.
+Such data may be collected only when you access 000WEBHOST platform using your device.
+Automatic collection of data
+
+  Log data and Device information.We automatically collect log data and device information when you access and use the 000WEBHOST Platform, even if you have not created an 000WEBHOST Account or logged in.
+That information includes, among other things: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.
+Tracking technologies and Cookies.
+We use cookies, beacons, tags, scripts and other similar technologies, such as CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes).
+We also automatically collect information about device's operating system, phone model, device ID and customer number.
+For more detail information on the use of these technologies, see our Cookies Policy.
+Usage information.We use a tool called " Google Analytics " to collect information about your interactions with the 000WEBHOST Platform (what pages you visit, such as the pages or content you view, your searches for Listings, bookings you have made, and other actions on the 000WEBHOST Platform.
+In consequence, Google, Inc. plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site).
+For more information please visit Google.
+000WEBHOST processes this information on the legal basisof:
+
+  Your consent;
+  Conclusion and performance of contractual arrangements and obligations between 000WEBHOST and the User;
+  Pursuance of legitimate interests of 000WEBHOST, as Data Controller and manager of 000WEBHOST platform.
+4\.
+HOW WE USE YOURE DATA?
+We use, store, combine and process information, including personal information, about you to provide, understand, improve, and develop the 000WEBHOST Platform, create and maintain a trusted and safer environment and comply with our legal obligations.
+To Identify.Personal identification information is collected and processed for the purposes of User identification as well use of services and domain name registration.
+Additionally, this information may be used to provide Users with support, letting them know about upcoming updates or improvements, providing information regarding changes of any Terms of Use (including changes to this Policy) as well as other important information.
+To Create and Maintain Trusted Environment.We verify or authenticate information or identifications provided by you (such as ID number, email or phone numbers).
+We also use collected information to detect and prevent fraud, spam, abuse, security incidents, and other illegal and harmful activities.
+To Stay Connected.We use information about data usage, devices, operating systems to diagnose problems with our servers, to administer our Platform, adopt decision when to retire SDK's/OS versions, to identify characteristics of major users so that we may optimize our applications and services and make your browsing and purchasing experience more enjoyable.
+To Personalize Advertising and Marketing.To provide targeted and interest based offers we conduct data profiling based on your characteristics, behaviour and preferences (based on the information you provide to us, your interactions with the 000WEBHOST Platform and its Users, information obtained from third parties, and your search history).
+In accordance with these results, we send various offers, surveys, contests, promotional messages, marketing, advertising, and other information that may be of interest to you based on your preferences (including information about 000WEBHOST or co-branded offers, campaigns, and services of our partners or affiliates).
+To Send Service and Billing Messages.000WEBHOST may also contact you with important information regarding our Services, or your use thereof.
+For example, we may send you a notice (through any of the communication channels available to us) if a certain Service is temporarily suspended for maintenance; reply to your support ticket or e-mail; send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions; forward abuse complaints regarding your hosting plan; or notify you of material changes in our Services.
+Such kind of communication is essential, for this reason, no opt-out possibilities are given to avoid receiving such Service and Billing Messages unless you are no longer a 000WEBHOST User (which can be done by deactivating your Account).
+To Register Domain.In certain jurisdictions or pursuant to the rules of the ICANN or certain registries, domain name registration information has to be made available and accessible to the public through a "WHOIS" search.
+The WHOIS database is a publicly accessible database that lists the domain name registration information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date.
+The domain name registration information you provide is stored by 000WEBHOST and is made available to the public through WHOIS searches.
+000WEBHOST may deposit your domain name registration information with a third-party escrow provider to comply with ICANN requirements.
+At times, Users may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals.
+Any such solicitations or e-mail communications do not come from 000WEBHOST and 000WEBHOST is not responsible for the use of WHOIS information by third parties.
+000WEBHOST acts only on the basis of ICANN rules and requirements.
+For more information see: <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>.
+To contact you.In order to notify you regarding your Account, to troubleshoot problems with your Account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, to send updates about our company, or as otherwise necessary to contact you to enforce our User Agreement, applicable national laws, and any agreement we may have with you.
+For these purposes, we may contact you via email, telephone, text messages, and portal.
+5\.
+JOB APPLICATIONS
+
+000WEBHOST welcomes all qualified Applicants to apply to any of the open positions published at <https://www.hostinger.com/career>, by sending us their contact details and CV (" Applicants Information") via the relevant Position Application Form on our Website, or through any other means provided by us.
+We understand that privacy and discreteness are crucial to our Applicants and are committed to keep Applicants Information private and use it solely for 000WEBHOST's internal and group companies recruitment purposes (including for identifying Applicants, evaluating their applications, making hiring and employment decisions, and contacting Applicants by phone or in writing).
+000WEBHOST may retain Applicants Information submitted to it for no longer than one year after the applied position has been filled or closed.
+We collect this information to re-consider Applicants for other positions and opportunities at 000WEBHOST; we can use their Applicants Information as reference for future applications submitted by them; and if the Applicant is hired, for additional employment and business purposes related to his/her work at 000WEBHOST.
+If you previously submitted your Applicants Information to 000WEBHOST, but now wish to access it, update it or have it deleted from our systems, please contact us at gdpr@hostinger.com .
+6\.
+PROFILING AND AUTOMATED DECISION MAKING
+
+Our platform uses automated decision making and profiling system.
+When profiling your data, our algorithm takes into Account the following key factors:
+
+  your information you provide to us;
+  your interactions with the 000WEBHOST Platform;
+  information obtained from third parties;
+  your search history;
+  history of your past deals, claims, complaints, reviews;
+  frequency of purchases;
+  other information obtained when using our Platform.
+Our automated systems analyse your content on the Account and 000WEBHOST Platform to provide you personally relevant product features, such as customised search results, tailored advertising, fraud detection.
+Right to object
+
+If a User wishes to change their preferences and to object to personal data processing, they may exercise such option at any time they wish by following the instructions to unsubscribe in the received email.
+When information is processed on the basis of legitimate interest of 000WEBHOST, a user has a right to object to such processing.
+However, such objection might lead to closure of Account/profile.
+7\.
+DIRECT MARKETING.
+PROFILING FOR DIRECT MARKETING PURPOSES
+
+When creating an Account at our Platform, you are free to opt-out from receiving various offers directly to your e-mail, phone or in your Account.
+We use provided contact details and your preferences for direct marketing by sending various offers or newsletters.
+These direct marketing offers, depending on your preferences, may be personalized taking into account any other information which you have provided to us (e.g.
+location, social media profile information, purchase history etc.)
+or we have collected or generated from other sources as described below.
+Right to object
+
+If a User wishes to change their preferences and withdraw the consent for direct marketing, they may exercise such option at any time they wish by following the instructions to unsubscribe in the received email.
+Specifically, you may also choose to withdraw your specific consent for using your profile and other automated systems-analysed-data for direct marketing purposes by sending an email to gdpr@hostinger.com.
+You are free to opt out of our newsletters at any time.
+You can do this by clicking on a link for that purpose at the bottom of our e-mail with the newsletters.
+You may at any time refuse to receive information from us by sending an email to gdpr@hostinger.com.
+8\.
+OTHER USES OF YOUR PERSONAL DATA
+
+  Developing Platform.We use data, including public feedback, to conduct research and development for the further development of our platform in order to provide you and others with a better, more intuitive and personalized experience, drive membership growth.
+Customer Support.We use data to help you and fix problems.
+We use the data (which can include your communications) to investigate, respond to and resolve complaints and issues (e.g., bugs).
+Aggregate Insights.We use data to generate aggregate insights.
+We use your data to produce and share aggregated insights that do not identify you.
+Security and Investigations.We use data for security, fraud prevention and investigations.
+We use your data (including your communications) if we think it's necessary for security purposes or to investigate possible fraud or other violations of our Terms of User or this Policy and/or attempts to harm our Users.
+9\.
+SOURCES OF PERSONAL DATA
+
+We collect and receive your Personal data from yourself (including your device) as well as from the following sources:
+
+  Social network operators (such as Facebook, Google , etc.
+);
+  Third-party service providers, suppliers and our partners;
+  Other legal sources.
+10\.
+RETENTION AND DELETION
+
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations.
+If you would like to stop us using your personal information, you shall request that we erase your personal information and close your 000WEBHOST Account.
+After de-activation of Account, we will still retain the following data for the purposes of compliance with applicable legal requirements (such as tax, accounting, legal reporting, AML, other) for as long as we are legally required by virtue of the such legal requirements:
+
+  profile with de-personalised information (we will change your email into user@deleted.com, erase you name, surname and contact information) like purchased services, login information, payment information, etc.
+Please also note that we may further retain some of your personal information in such cases ( i.e., after closure of your 000WEBHOST Account):
+
+    as long as it is necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety.
+If 000WEBHOST suspends your 000WEBHOST Account for safety reasons, we may retain certain information from that 000WEBHOST Account to prevent that User from opening a new 000WEBHOST Account in the future;
+    the extent necessary to comply with our legal obligations.
+000WEBHOST may keep some of your information for tax, legal reporting and auditing obligations;
+    forum posts or other publicly visible information may continue to be publicly available on the 000WEBHOST Platform, even after your 000WEBHOST Account is deactivated.
+However, attribution of such information to you will be removed.
+Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers;
+    as we protect 000WEBHOST Platform from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time;
+    domain name registration data - at the moment of writing this Policy, in order to register domain, we are requested to provide personal information about the owner of domain; this information is shown in WHOIS directory and is public.
+For more information, please visit <https://www.icann.org/registrants>.
+11\.
+DATA TRANSFERS AND USE OF THIRD-PARTY SERVICES
+
+While collecting and processing your Personal Data, we may perform data transfers to various third parties.
+11.1.
+With your consent
+
+We will share your Personal Data with companies, organizations or individuals outside our group of companies when we have your consent to do so.
+11.2.
+Where do we process your personal data?
+Users' Personal Informationmay be maintained, processed and stored by 000WEBHOST and our authorized affiliates and service providers in the United Kingdom, Netherlands, Lithuania or Cyprus, and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
+Job Applicants Informationwill be maintained, processed and stored in Lithuania, in the applied position's location(s), and as necessary, in secured cloud storage provided by our Third Party Services.
+HOSTINGERis based in Cyprus, which is a member of EU and offers an adequate level of protection for the Personal Information of EU Member State residents.
+000WEBHOST affiliates and service providersthat store or process your Personal Information on 000WEBHOST's behalf are each contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
+Domain name registration data and identification datais shared with third parties in accordance with ICANN rules.
+For more information see <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>
+
+
+
+We may share non-personally identifiable information publicly as well as with our partners - publishers, advertisers.
+For example, we may share information publicly to show trends about the general use of our platform.
+If we are involved in a merger, reorganization, acquisition or sale, we will continue to ensure the confidentiality of any Personal Data and give all affected Users appropriate notices.
+EU-U.S. Privacy Shield.
+When providing hosting and other services, personal data might be transferred to data recipients established in third countries and participating in the EU-U.S. Privacy Shield Framework.
+In certain situations, 000WEBHOST may be asked to disclose personal data in response to lawful requests by public authorities, other competent authorities, including when it is required to meet national security or law enforcement requirements, and will do so where permitted by local data protection laws.
+Data Localisation Obligations.If you reside in a jurisdiction that imposes "data localisation" or "data residency" obligations (i.e., requiring that Personal Information of its residents be kept within the territorial boundaries of such jurisdiction), and this fact comes to our attention, we may maintain your Personal Information within such territorial boundaries, if we are legally obligated to do so.
+You acknowledge that while doing so, we may continue to collect, store and use your Personal Information elsewhere.
+Targeting, advertising.We also use Facebook, Google , as well as other advertising and marketing tools.
+You should carefully read the privacy policy of these service providers.
+More information on the targeted advertising, as well as your opt-out rights and other rights, you will find on the respective websites of these service providers - https://lt-lt.facebook.com/policies/ads#; <https://policies.google.com/technologies/ads>.
+11.3.
+Social Media Features
+
+Our Services include certain Social Media features and widgets, single sign on features, such as the "Facebook Connect" or "Google Sign-in", the "Facebook Like" button, the "Share this" button or other interactive mini-programs ("Social Media Features").
+These Social Media Features may collect information such as your IP address or which page you are visiting on our Website, and may set a cookie to enable them to function properly.
+Social Media Features are either hosted by a third party or hosted directly on our Services.
+Your interactions with these third parties' Social Media Features are governed by their policies.
+11.4.
+Our Legal Obligation to Use or Disclose Personal Data
+
+We will reveal your Personal Data to state and public authorities without your prior permission only when we are legally required to provide information, including taking legal action to defend our rights, as well as the cases, where we have a belief in good faith that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, enforce applicable Terms of Services, including investigation of potential violations, detect, prevent or otherwise address fraud, security or technical issues.
+12\.
+SECURITY
+
+000WEBHOST has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures.
+Among other things, we offer HTTPS secure access to most areas on our Services.
+We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third-Party Services for further enhancing the security of our Services and protection of our Visitors' and Users' privacy.
+Regardless of the measures and efforts taken by 000WEBHOST, we cannot and do not guarantee the absolute protection and security of your Personal Information, or any other User Content you upload, publish or otherwise share with 000WEBHOST or anyone else.
+We therefore encourage you to set strong passwords for your User Account and avoid providing us or anyone with any sensitive information of which you believe its disclosure could cause you substantial or irreparable harm.
+If you have any questions regarding the security of our Services, you are welcome to contact us at gdpr@hostinger.com
+
+13\.
+YOUR RIGHTS
+
+You are entitled to a range of rights regarding the protection of your Personal Data.
+Those rights are:
+
+  the right to access the information we process about you;
+  the right to rectify incorrect/inaccurate information about you;
+  the right to transfer all or part of the information collected about you to you or another data controller, where technically feasible (the right to data portability; with limitations and restrictions as specified in the EU General Data Protection Regulation);
+  the right to erase any data concerning you.
+Users may demand erasure of data without undue delay for legitimate reasons, e.g.
+where data is no longer necessary for the purposes it was collected, or where the data has been unlawfully processed;
+  the right to the restriction of data processing.
+Users, for legitimate purposes, may obtain restriction of data processing from the controller;
+  the right to object to the processing of Personal Data when processing is carried out on the basis of legitimate interest, as well as in these cases, as specified above in this Policy: 
+    use of your Personal Data for direct marketing purposes;
+    use of your Personal Data for profiling for direct marketing purposes.
+Some of the rights as above are easy to exercise: i.e., you may at any time access and edit, update or amend your details, opt out of receiving communications from us and our partners by contacting to our Help Desk.
+When you object to processing of Personal Data when processing is carried out on the basis of legitimate interest, we will carefully consider such a request, which may result in your Account closure or de-activation.
+Users have the right to lodge a complaint with the national Data Protection Agency in their country of residence in the event where their rights may have been infringed.
+However, we recommend attempting to reach a peaceful resolution of the possible dispute by contacting us first.
+14\.
+ACCEPTANCE OF THIS POLICY
+
+We assume that all Users of 000WEBHOST Platform have carefully read this document and agree to its contents.
+If someone does not agree with this Policy, they should refrain from using our website, and mobile applications.
+We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 14.
+Continued use of 000WEBHOST's website and mobile applications implies acceptance of the revised Policy.
+This Policy is an integral part of 000WEBHOST's Terms and Conditions.
+We will ask for your consent before using information for a purpose other than those set out in this Policy.
+15\.
+CONTACTS
+
+For all your requests or comments concerned with this Privacy Policy, please contact: gdpr@hostinger.com.
+16\.
+APPLICATION OF POLICY
+
+Our Policy applies to all of the services offered by us and our affiliates, including HOSTINGER, UAB, private limited liability company, organized under the laws of the Republic of Lithuania, code 302710386, legal address at Europos av.
+32-4, LT-46326 Kaunas, the Republic of Lithuania, but excludes services that have separate privacy policies that do not incorporate this Policy.
+Our Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services or other sites linked from our services.
+17\.
+AMENDMENTS
+
+Our Policy may change from time to time.
+We will post any Policy changes on our website and, if the changes are significant, we may consider providing a more explicit notice (including, for certain services, email notification of Policy changes).
+18\.
+FURTHER INFORMATION
+
+If you have any further questions regarding the data 000WEBHOST collects, or how we use it, then please feel free to contact Data Protection Officer at the details as indicated above hereof.
+The following text is extracted and transformed from the 000webhostapp.com privacy policy that was archived on 2019-12-25.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Free Web Hosting, Domain Names, VPS | 000Webhost
+
+  
+
+
+Your Privacy is our Utmost Priority
+
+000WEBHOST.COM - PRIVACY POLICY
+
+RESPECTS YOUR PRIVACY
+
+1\.
+INTRODUCTION
+
+HOSTINGER.
+a Cyprus private limited company, legal address, 61 Lordou Vironos st. 6023 Larnaca, Cyprus (" 000WEBHOST"), provides you web-hosting, domain name registration, and related products and service.
+000WEBHOST seeks to ensure the highest level of data privacy when offering its variety of quality products and services to subscribers (" Subscribers") and visitors (" Visitors") (collectively, " Users").
+At 000WEBHOST, the privacy and security of our Users is of paramount importance.
+000WEBHOST is committed to protecting the data you share with us.
+When this Policy mentions " 000WEBHOST", " we," " us", or " our", it refers to 000WEBHOST that is responsible for protection of your personal information in line with this Privacy Policy (the " Data Controller").
+This Privacy Policy (" Policy") explains how 000WEBHOST processes information that can be used to directly or indirectly identify an individual (" Personal Data") collected on our Site, forums and our mobile applications (" Platform").
+All personal data are processed in accordance with the General Data Protection Regulation (EU) 2016/679 and EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, designed by the U.S. Department of Commerce and the European Commission and Swiss Administration.
+For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at gdpr@hostinger.com.
+2\.
+GENERAL PRINCIPLES.
+CONFIDENTIALITY
+
+000WEBHOST shall process all Personal Data adhering to the general data processing principles:
+
+  lawfully, fairly and in a transparent manner in relation to the data subject ( lawfulness, fairness, and transparency);
+  collect and process Personal Data only for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes ( purpose limitation);
+  ensure that Personal Data is adequate, relevant and limited to what is necessary for relation to the purposes for which they are processed ( data minimization);
+  ensure that Personal Data is accurate and, where necessary, kept up to date ( accuracy);
+  ensure that Personal Data is kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed ( storage limitation);
+  process Personal Data in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures ( integrity and confidentiality).
+All and any information stored on 000WEBHOST's Platform is treated as strictly confidential.
+All information is stored securely and is accessed by qualified and authorized personnel only.
+3\.
+INFORMATION WE COLLECT
+
+3.1.
+Information You provide to us.
+Information that is necessary for the use of the 000WEBHOST Platform
+
+We ask for and collect the following personal information about you when you use the 000WEBHOST Platform.
+This information is necessary for the adequate performance of the contractual arrangement which is in place between you and us and to allow us to comply with our legal obligations.
+Failing to provide any of this data or decision to delete or object to the processing of any of such data may result in de-activation of your 000WEBHOST Account.
+Account Signup Information.When you sign up to 000WEBHOST, we require you to provide minimum information - email address and password.
+In some particular cases we ask you to provide more information - such as your first and last name, identity verification, contact details.
+Such information is required when you are applying for a registration of domain name and indicated as the WHOIS information.
+Login information.We collect Login scope and Email scope from Google, please see <https://developers.google.com/+/web/api/rest/oauth#profile> and email from Facebook.
+Identity Verification.To comply with the rules set forth by the Internet Corporation for Assigned Names and Numbers ("ICANN") before the registration of the new domain name, 000WEBHOST may collect identity verification information (such as images of your passport, national ID card, valid driving license or other documents as required or permitted by applicable laws).
+Payment Information.To order and use features of the 000WEBHOST Platform (such as web-hosting, domain name registration), we may require you to provide certain financial information in order to facilitate the processing of payments.
+We use 3rd party (payment processor) services, so we do not collect and store credit card information (we receive information about the payment status and store only last 4 credit card digits).
+Communications, Chats, Messaging.When you communicate with 000WEBHOST (using general inquiries window), we collect information about your communication and any information you choose to provide or disclose.
+In order to respond to your request, we may access information provided in your 000WEBHOST Account, purchase history, etc.
+Job applicants' information.We also collect information that you provided to us by applying to any of the open career positions published at <https://www.hostinger.com/career>, by e-mail or otherwise.
+For more details see Section 5 below.
+You may also choose to provide us information when you fill in a form, conduct a search, update or add information to your 000WEBHOST Account, respond to surveys, post to community forums, participate in promotions, or use other features of the 000WEBHOST Platform.
+000WEBHOST processes information you provide to us on the legal basisof:
+
+  Your consent, expressed when voluntarily submitting and filling your Personal Data details in sign-up forms, by e-mail, request or inquiries window, etc.
+; and
+  Conclusion and performance of contractual arrangements and obligations between 000WEBHOST and the User;
+  Pursuance of legitimate interests of 000WEBHOST, as Data Controller and manager of 000WEBHOST platform;
+  Compliance with a legal obligation to which 000WEBHOST is subject, including, but not limited to, ICANN rules: <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>
+
+
+
+Disclaimer
+
+Please always take care and observe at least the following minimum requirements for the protection of your personal information:
+
+  please omit using your name, address, telephone number, e-mail, personal identification number, date of birth, bank Account number, card number, other special (sensitive) data, etc.
+in the subject of the request or file name;
+  please omit using your personal code, payment card number, and other financial information and details, health, family member details, or other specific (sensitive) data, in the texts of requests, e-mails or similar communication to us, and
+  please make sure that the remaining personal data is only indicated to the extent necessary for the purposes for which the letter, request or inquiry is sent.
+Right to delete your data
+
+You may at any time access and edit, update or delete your contact details by logging into your 000WEBHOST's platform Account.
+Please note that you will only be able to delete your email during de-activation of your 000WEBHOST Account.
+To deactivate your Account, please send your request to gdpr@hostinger.com, and you will be provided with further guidance.
+3.2.
+Information We Collect when You use the Platform
+
+When you use the 000WEBHOST Platform or contact us directly by any communication channel, we may collect information, including personal information, about the services you use and how you use them.
+This information is necessary for the adequate performance of the contract between you and us, to enable us to comply with legal obligations and given our legitimate interest in being able to provide and improve the functionalities of the 000WEBHOST Platform.
+With your consent
+
+  Geo-location data.We collect information about your approximate location as determined by data such as your IP address to offer you an improved user experience.
+Such data may be collected only when you access 000WEBHOST platform using your device.
+Automatic collection of data
+
+  Log data and Device information.We automatically collect log data and device information when you access and use the 000WEBHOST Platform, even if you have not created an 000WEBHOST Account or logged in.
+That information includes, among other things: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.
+Tracking technologies and Cookies.
+We use cookies, beacons, tags, scripts and other similar technologies, such as CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes).
+We also automatically collect information about device's operating system, phone model, device ID and customer number.
+For more detail information on the use of these technologies, see our Cookies Policy.
+Usage information.We use a tool called " Google Analytics " to collect information about your interactions with the 000WEBHOST Platform (what pages you visit, such as the pages or content you view, your searches for Listings, bookings you have made, and other actions on the 000WEBHOST Platform.
+In consequence, Google, Inc. plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site).
+For more information please visit Google.
+000WEBHOST processes this information on the legal basisof:
+
+  Your consent;
+  Conclusion and performance of contractual arrangements and obligations between 000WEBHOST and the User;
+  Pursuance of legitimate interests of 000WEBHOST, as Data Controller and manager of 000WEBHOST platform.
+4\.
+HOW WE USE YOURE DATA?
+We use, store, combine and process information, including personal information, about you to provide, understand, improve, and develop the 000WEBHOST Platform, create and maintain a trusted and safer environment and comply with our legal obligations.
+To Identify.Personal identification information is collected and processed for the purposes of User identification as well use of services and domain name registration.
+Additionally, this information may be used to provide Users with support, letting them know about upcoming updates or improvements, providing information regarding changes of any Terms of Use (including changes to this Policy) as well as other important information.
+To Create and Maintain Trusted Environment.We verify or authenticate information or identifications provided by you (such as ID number, email or phone numbers).
+We also use collected information to detect and prevent fraud, spam, abuse, security incidents, and other illegal and harmful activities.
+To Stay Connected.We use information about data usage, devices, operating systems to diagnose problems with our servers, to administer our Platform, adopt decision when to retire SDK's/OS versions, to identify characteristics of major users so that we may optimize our applications and services and make your browsing and purchasing experience more enjoyable.
+To Personalize Advertising and Marketing.To provide targeted and interest based offers we conduct data profiling based on your characteristics, behaviour and preferences (based on the information you provide to us, your interactions with the 000WEBHOST Platform and its Users, information obtained from third parties, and your search history).
+In accordance with these results, we send various offers, surveys, contests, promotional messages, marketing, advertising, and other information that may be of interest to you based on your preferences (including information about 000WEBHOST or co-branded offers, campaigns, and services of our partners or affiliates).
+To Send Service and Billing Messages.000WEBHOST may also contact you with important information regarding our Services, or your use thereof.
+For example, we may send you a notice (through any of the communication channels available to us) if a certain Service is temporarily suspended for maintenance; reply to your support ticket or e-mail; send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions; forward abuse complaints regarding your hosting plan; or notify you of material changes in our Services.
+Such kind of communication is essential, for this reason, no opt-out possibilities are given to avoid receiving such Service and Billing Messages unless you are no longer a 000WEBHOST User (which can be done by deactivating your Account).
+To Register Domain.In certain jurisdictions or pursuant to the rules of the ICANN or certain registries, domain name registration information has to be made available and accessible to the public through a "WHOIS" search.
+The WHOIS database is a publicly accessible database that lists the domain name registration information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date.
+The domain name registration information you provide is stored by 000WEBHOST and is made available to the public through WHOIS searches.
+000WEBHOST may deposit your domain name registration information with a third-party escrow provider to comply with ICANN requirements.
+At times, Users may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals.
+Any such solicitations or e-mail communications do not come from 000WEBHOST and 000WEBHOST is not responsible for the use of WHOIS information by third parties.
+000WEBHOST acts only on the basis of ICANN rules and requirements.
+For more information see: <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>.
+To contact you.In order to notify you regarding your Account, to troubleshoot problems with your Account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, to send updates about our company, or as otherwise necessary to contact you to enforce our User Agreement, applicable national laws, and any agreement we may have with you.
+For these purposes, we may contact you via email, telephone, text messages, and portal.
+5\.
+JOB APPLICATIONS
+
+000WEBHOST welcomes all qualified Applicants to apply to any of the open positions published at <https://www.hostinger.com/career>, by sending us their contact details and CV (" Applicants Information") via the relevant Position Application Form on our Website, or through any other means provided by us.
+We understand that privacy and discreteness are crucial to our Applicants and are committed to keep Applicants Information private and use it solely for 000WEBHOST's internal and group companies recruitment purposes (including for identifying Applicants, evaluating their applications, making hiring and employment decisions, and contacting Applicants by phone or in writing).
+000WEBHOST may retain Applicants Information submitted to it for no longer than one year after the applied position has been filled or closed.
+We collect this information to re-consider Applicants for other positions and opportunities at 000WEBHOST; we can use their Applicants Information as reference for future applications submitted by them; and if the Applicant is hired, for additional employment and business purposes related to his/her work at 000WEBHOST.
+If you previously submitted your Applicants Information to 000WEBHOST, but now wish to access it, update it or have it deleted from our systems, please contact us at gdpr@hostinger.com .
+6\.
+PROFILING AND AUTOMATED DECISION MAKING
+
+Our platform uses automated decision making and profiling system.
+When profiling your data, our algorithm takes into Account the following key factors:
+
+  your information you provide to us;
+  your interactions with the 000WEBHOST Platform;
+  information obtained from third parties;
+  your search history;
+  history of your past deals, claims, complaints, reviews;
+  frequency of purchases;
+  other information obtained when using our Platform.
+Our automated systems analyse your content on the Account and 000WEBHOST Platform to provide you personally relevant product features, such as customised search results, tailored advertising, fraud detection.
+Right to object
+
+If a User wishes to change their preferences and to object to personal data processing, they may exercise such option at any time they wish by following the instructions to unsubscribe in the received email.
+When information is processed on the basis of legitimate interest of 000WEBHOST, a user has a right to object to such processing.
+However, such objection might lead to closure of Account/profile.
+7\.
+DIRECT MARKETING.
+PROFILING FOR DIRECT MARKETING PURPOSES
+
+When creating an Account at our Platform, you are free to opt-out from receiving various offers directly to your e-mail, phone or in your Account.
+We use provided contact details and your preferences for direct marketing by sending various offers or newsletters.
+These direct marketing offers, depending on your preferences, may be personalized taking into account any other information which you have provided to us (e.g.
+location, social media profile information, purchase history etc.)
+or we have collected or generated from other sources as described below.
+Right to object
+
+If a User wishes to change their preferences and withdraw the consent for direct marketing, they may exercise such option at any time they wish by following the instructions to unsubscribe in the received email.
+Specifically, you may also choose to withdraw your specific consent for using your profile and other automated systems-analysed-data for direct marketing purposes by sending an email to gdpr@hostinger.com.
+You are free to opt out of our newsletters at any time.
+You can do this by clicking on a link for that purpose at the bottom of our e-mail with the newsletters.
+You may at any time refuse to receive information from us by sending an email to gdpr@hostinger.com.
+8\.
+OTHER USES OF YOUR PERSONAL DATA
+
+  Developing Platform.We use data, including public feedback, to conduct research and development for the further development of our platform in order to provide you and others with a better, more intuitive and personalized experience, drive membership growth.
+Customer Support.We use data to help you and fix problems.
+We use the data (which can include your communications) to investigate, respond to and resolve complaints and issues (e.g., bugs).
+Aggregate Insights.We use data to generate aggregate insights.
+We use your data to produce and share aggregated insights that do not identify you.
+Security and Investigations.We use data for security, fraud prevention and investigations.
+We use your data (including your communications) if we think it's necessary for security purposes or to investigate possible fraud or other violations of our Terms of User or this Policy and/or attempts to harm our Users.
+9\.
+SOURCES OF PERSONAL DATA
+
+We collect and receive your Personal data from yourself (including your device) as well as from the following sources:
+
+  Social network operators (such as Facebook, Google , etc.
+);
+  Third-party service providers, suppliers and our partners;
+  Other legal sources.
+10\.
+RETENTION AND DELETION
+
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations.
+If you would like to stop us using your personal information, you shall request that we erase your personal information and close your 000WEBHOST Account.
+After de-activation of Account, we will still retain the following data for the purposes of compliance with applicable legal requirements (such as tax, accounting, legal reporting, AML, other) for as long as we are legally required by virtue of the such legal requirements:
+
+  profile with de-personalised information (we will change your email into user@deleted.com, erase you name, surname and contact information) like purchased services, login information, payment information, etc.
+Please also note that we may further retain some of your personal information in such cases ( i.e., after closure of your 000WEBHOST Account):
+
+    as long as it is necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety.
+If 000WEBHOST suspends your 000WEBHOST Account for safety reasons, we may retain certain information from that 000WEBHOST Account to prevent that User from opening a new 000WEBHOST Account in the future;
+    the extent necessary to comply with our legal obligations.
+000WEBHOST may keep some of your information for tax, legal reporting and auditing obligations;
+    forum posts or other publicly visible information may continue to be publicly available on the 000WEBHOST Platform, even after your 000WEBHOST Account is deactivated.
+However, attribution of such information to you will be removed.
+Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers;
+    as we protect 000WEBHOST Platform from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time;
+    domain name registration data - at the moment of writing this Policy, in order to register domain, we are requested to provide personal information about the owner of domain; this information is shown in WHOIS directory and is public.
+For more information, please visit <https://www.icann.org/registrants>.
+11\.
+DATA TRANSFERS AND USE OF THIRD-PARTY SERVICES
+
+While collecting and processing your Personal Data, we may perform data transfers to various third parties.
+11.1.
+With your consent
+
+We will share your Personal Data with companies, organizations or individuals outside our group of companies when we have your consent to do so.
+11.2.
+Where do we process your personal data?
+Users' Personal Informationmay be maintained, processed and stored by 000WEBHOST and our authorized affiliates and service providers in the United Kingdom, Netherlands, Lithuania or Cyprus, and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
+Job Applicants Informationwill be maintained, processed and stored in Lithuania, in the applied position's location(s), and as necessary, in secured cloud storage provided by our Third Party Services.
+HOSTINGERis based in Cyprus, which is a member of EU and offers an adequate level of protection for the Personal Information of EU Member State residents.
+000WEBHOST affiliates and service providersthat store or process your Personal Information on 000WEBHOST's behalf are each contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
+Domain name registration data and identification datais shared with third parties in accordance with ICANN rules.
+For more information see <https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#whois>
+
+
+
+We may share non-personally identifiable information publicly as well as with our partners - publishers, advertisers.
+For example, we may share information publicly to show trends about the general use of our platform.
+If we are involved in a merger, reorganization, acquisition or sale, we will continue to ensure the confidentiality of any Personal Data and give all affected Users appropriate notices.
+EU-U.S. Privacy Shield.
+When providing hosting and other services, personal data might be transferred to data recipients established in third countries and participating in the EU-U.S. Privacy Shield Framework.
+In certain situations, 000WEBHOST may be asked to disclose personal data in response to lawful requests by public authorities, other competent authorities, including when it is required to meet national security or law enforcement requirements, and will do so where permitted by local data protection laws.
+Data Localisation Obligations.If you reside in a jurisdiction that imposes "data localisation" or "data residency" obligations (i.e., requiring that Personal Information of its residents be kept within the territorial boundaries of such jurisdiction), and this fact comes to our attention, we may maintain your Personal Information within such territorial boundaries, if we are legally obligated to do so.
+You acknowledge that while doing so, we may continue to collect, store and use your Personal Information elsewhere.
+Targeting, advertising.We also use Facebook, Google , as well as other advertising and marketing tools.
+You should carefully read the privacy policy of these service providers.
+More information on the targeted advertising, as well as your opt-out rights and other rights, you will find on the respective websites of these service providers - https://lt-lt.facebook.com/policies/ads#; <https://policies.google.com/technologies/ads>.
+11.3.
+Social Media Features
+
+Our Services include certain Social Media features and widgets, single sign on features, such as the "Facebook Connect" or "Google Sign-in", the "Facebook Like" button, the "Share this" button or other interactive mini-programs ("Social Media Features").
+These Social Media Features may collect information such as your IP address or which page you are visiting on our Website, and may set a cookie to enable them to function properly.
+Social Media Features are either hosted by a third party or hosted directly on our Services.
+Your interactions with these third parties' Social Media Features are governed by their policies.
+11.4.
+Our Legal Obligation to Use or Disclose Personal Data
+
+We will reveal your Personal Data to state and public authorities without your prior permission only when we are legally required to provide information, including taking legal action to defend our rights, as well as the cases, where we have a belief in good faith that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, enforce applicable Terms of Services, including investigation of potential violations, detect, prevent or otherwise address fraud, security or technical issues.
+12\.
+SECURITY
+
+000WEBHOST has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures.
+Among other things, we offer HTTPS secure access to most areas on our Services.
+We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third-Party Services for further enhancing the security of our Services and protection of our Visitors' and Users' privacy.
+Regardless of the measures and efforts taken by 000WEBHOST, we cannot and do not guarantee the absolute protection and security of your Personal Information, or any other User Content you upload, publish or otherwise share with 000WEBHOST or anyone else.
+We therefore encourage you to set strong passwords for your User Account and avoid providing us or anyone with any sensitive information of which you believe its disclosure could cause you substantial or irreparable harm.
+If you have any questions regarding the security of our Services, you are welcome to contact us at gdpr@hostinger.com
+
+13\.
+YOUR RIGHTS
+
+You are entitled to a range of rights regarding the protection of your Personal Data.
+Those rights are:
+
+  the right to access the information we process about you;
+  the right to rectify incorrect/inaccurate information about you;
+  the right to transfer all or part of the information collected about you to you or another data controller, where technically feasible (the right to data portability; with limitations and restrictions as specified in the EU General Data Protection Regulation);
+  the right to erase any data concerning you.
+Users may demand erasure of data without undue delay for legitimate reasons, e.g.
+where data is no longer necessary for the purposes it was collected, or where the data has been unlawfully processed;
+  the right to the restriction of data processing.
+Users, for legitimate purposes, may obtain restriction of data processing from the controller;
+  the right to object to the processing of Personal Data when processing is carried out on the basis of legitimate interest, as well as in these cases, as specified above in this Policy: 
+    use of your Personal Data for direct marketing purposes;
+    use of your Personal Data for profiling for direct marketing purposes.
+Some of the rights as above are easy to exercise: i.e., you may at any time access and edit, update or amend your details, opt out of receiving communications from us and our partners by contacting to our Help Desk.
+When you object to processing of Personal Data when processing is carried out on the basis of legitimate interest, we will carefully consider such a request, which may result in your Account closure or de-activation.
+Users have the right to lodge a complaint with the national Data Protection Agency in their country of residence in the event where their rights may have been infringed.
+However, we recommend attempting to reach a peaceful resolution of the possible dispute by contacting us first.
+14\.
+ACCEPTANCE OF THIS POLICY
+
+We assume that all Users of 000WEBHOST Platform have carefully read this document and agree to its contents.
+If someone does not agree with this Policy, they should refrain from using our website, and mobile applications.
+We reserve the right to change our Policy at any time and inform by using the way as indicated in Section 14.
+Continued use of 000WEBHOST's website and mobile applications implies acceptance of the revised Policy.
+This Policy is an integral part of 000WEBHOST's Terms and Conditions.
+We will ask for your consent before using information for a purpose other than those set out in this Policy.
+15\.
+CONTACTS
+
+For all your requests or comments concerned with this Privacy Policy, please contact: gdpr@hostinger.com.
+16\.
+APPLICATION OF POLICY
+
+Our Policy applies to all of the services offered by us and our affiliates, including HOSTINGER, UAB, private limited liability company, organized under the laws of the Republic of Lithuania, code 302710386, legal address at Europos av.
+32-4, LT-46326 Kaunas, the Republic of Lithuania, but excludes services that have separate privacy policies that do not incorporate this Policy.
+Our Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services or other sites linked from our services.
+17\.
+AMENDMENTS
+
+Our Policy may change from time to time.
+We will post any Policy changes on our website and, if the changes are significant, we may consider providing a more explicit notice (including, for certain services, email notification of Policy changes).
+18\.
+FURTHER INFORMATION
+
+If you have any further questions regarding the data 000WEBHOST collects, or how we use it, then please feel free to contact Data Protection Officer at the details as indicated above hereof.
+The following text is extracted and transformed from the 001games.com privacy policy that was archived on 2019-06-03.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+
+This Privacy Policy covers 001Games.com, This Privacy Policy explains how 001Games.com collects and utilizes both personal and non-personal information when you use our websites.
+WHY DO WE COLLECT PERSONAL INFORMATION?
+001Games.com collects personal information to improve the manner by which we operate and offer our products and services, communicate with you, and provide effective customer support.
+We will not share your personally identifiable information with third parties without your consent, unless necessary for the purposes set forth in this Privacy Policy.
+WHAT PERSONAL INFORMATION DO WE COLLECT?
+Personal information specifically identifies an individual and may include: name; email address; and phone number.
+HOW DO WE USE YOUR PERSONAL INFORMATION?
+001Games.com uses your personal information to:
+
+Ask you to participate in surveys;
+
+Offer you product upgrades, content, services and games;
+
+Auto-update downloaded products; and Provide you with news, updates, targeted advertising, promotions, and special offers.
+WHAT NON-PERSONAL INFORMATION DO WE COLLECT?
+We collect non-personal information that does not permit direct association with any specific individual.
+We may collect, use, transfer, and disclose non-personal information for any purpose.
+The following are examples of non-personal information that we collect:
+
+Information about your computer, hardware, software, platform, mobile device, Internet Protocol (IP) address;
+
+Language preference;
+
+Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy.
+HOW DO WE USE YOUR NON-PERSONAL INFORMATION?
+Improve our websites by providing content recommendations, language and location customization, targeted advertising and/or personalized help and instructions;
+
+Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability;
+
+Better understand how our products are used.
+THIRD PARTY ADVERTISING
+We allow third-party advertising companies to serve ads when you visit our websites or interact with our products or services.
+These companies use non-personal information about your visits in order to provide advertisements of interest to you.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site.
+These companies may use non-personally identifiable information (e.g.
+click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
+These companies typically use a cookie or third party web beacon to collect this information.
+USE OF COOKIES
+We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
+CHANGES TO OUR PRIVACY POLICY
+We frequently revise this Privacy Policy to keep it up to date with 001Games.com web pages.
+The following text is extracted and transformed from the 007.com privacy policy that was archived on 2019-03-29.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+FoxPrivacy.com
+
+Privacy Policy
+Effective March 20th, 2019
+  
+The Walt Disney Company has acquired certain 21st Century Fox businesses, including those providing the services described below.
+This policy has been updated to reflect that transaction.
+Twentieth Century Fox Film Company Limited and Twentieth Century Fox Home Entertainment Ltd. (collectively the “ Company” or “ we”), which can be contacted at the email address intlprivacyemea@foxcustomercare.com, want to inform you about how we collect, use and disclose personal data from and about you, through this website and its associated mobile sites, applications and widgets (collectively, the “ Company Services”).
+You can find a Table of Contents and a brief summary of this Privacy Policy in the chart below.
+For further details with regard to the data processing carried out by the Company, click on the links in each section of the summary.
+1.
+WHAT AND WHO THIS PRIVACY POLICY COVERS 
+  2.
+WHAT TYPE OF PERSONAL DATA DO WE COLLECT ABOUT YOU?
+3.
+WHY DO WE COLLECT YOUR PERSONAL DATA?
+4.
+ON WHAT LEGAL BASES DO WE PROCESS YOUR PERSONAL DATA?
+5.
+HOW DO WE PROCESS YOUR PERSONAL DATA?
+6. WHO HAS ACCESS TO YOUR PERSONAL DATA?
+7.
+IS YOUR PERSONAL DATA TRANSFERRED ABROAD?
+8.
+WHAT ARE YOUR RIGHTS WITH REGARD TO YOUR PERSONAL DATA?
+9.
+WHAT IS GOING TO HAPPEN FROM MAY 25, 2018?
+10.
+UPDATES TO THIS PRIVACY POLICY 
+  11.
+CONTACT US 
+
+| 
+
+Issue
+| 
+
+Information 
+  
+---|---|---  
+  
+  1.
+| 
+
+What and who this Privacy Policy covers
+| 
+
+The Company is the data controller of the personal data we collect from and about you through the Company Services.
+This Privacy Policy applies to all users, including both those who use the Company Services without being registered or having subscribed and those who have registered with or subscribed to a Company Service.
+For further information click here.
+2.
+| 
+
+What kind of personal data do we collect about you?
+| 
+
+The Company might collect data from and about you.
+More specifically, the Company collects (1) registration data, (2) public data and Posts, (3) data that you have permitted social media to share with the Company, and (4) activity data.
+However, we do notcollect either financial information from a payment service provider or sensitive data relating to you.
+For further information click here.
+3.
+| 
+
+Why do we collect your personal data?
+| 
+
+The main reason why we collect data about you is to provide you with Company Services and to allow you to interact with such services.
+In addition, with your prior consent, we can send you offers, promotions, and marketing communications, including based on your personal preferences and habits.
+For further information click here.
+4.
+| 
+
+On what legal bases do we use your personal data?
+| 
+
+Your personal data is mainly collected in order to provide you with Company Services.
+Your personal data is also necessarily collected to comply with legal obligation or to protect the legitimate interest of the Company.
+Failure to provide such data will make it impossible to offer you the Company Services.
+When your personal data is collected for marketing purposes, you have the option not to provide the Company with your personal data.
+For further information click here.
+5.
+| 
+
+How do we process your personal data?
+| 
+
+The security of your data is a priority for us.
+For this purpose, the Company has implemented adequate administrative, technical and physical measures designed to safeguard your personal data against loss, theft and unauthorized use, disclosure ormodification.
+For further information click here.
+6.
+| 
+
+Who can access to your personal data?
+| 
+
+The Company might share your personal data with (i) service providers, (ii) our affiliated companies and (iii) national authorities, when allowed by the applicable laws.
+For further information click here.
+7.
+| 
+
+Is your personal data transferred abroad?
+| 
+
+Your personal data might be transferred to other countries within or outside the European Economic Area.
+In any case, we always make sure that appropriate and suitable safeguards compliant with applicable laws are in place to protect your personal data.
+For further information click here.
+8.
+| 
+
+What are your rights with regard to your personal data?
+| 
+
+You have, among others, the right to access, complete, update, amend and delete your personal data.
+For further information click here.
+9.
+| 
+
+What is going to happen on May 25, 2018?
+| 
+
+The EU General Data Protection Regulation 2016/679 becomes effective on May 25, 2018, introducing, among others, additional rights for individuals.
+For further information click here.
+10.
+| 
+
+Updates to this Privacy Policy
+| 
+
+The Company may modify or update this Privacy Policy, including in order to comply with applicable law.
+Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised.
+11.
+| 
+
+How can I contact you with regard to the processing of my personal data?
+| 
+
+You can contact us at the following email address intlprivacyemea@foxcustomercare.com.
+1.
+WHAT AND WHO THIS PRIVACY POLICY COVERS
+
+
+
+Twentieth Century Fox Film Company Limited.
+and Twentieth Century Fox Home Entertainment Ltd., with their registered offices in Twentieth Century House, 31/32 Soho Square, London W1D3AP, are the data controllers of the personal data (e.g.
+information that identifies a specific person, such as full name or email address) we collect from and about you through the Company Services that is processed in compliance with the terms of this Privacy Policy.
+This Privacy Policy and our Cookie Policy apply to all users, including both those who use the Company Services without being registered with or subscribing to a Company Service and those who have registered with or subscribed to a Company Service.
+2.
+WHAT TYPE OF PERSONAL DATA DO WE COLLECT ABOUT YOU?
+The Company collects (1) registration data, when you sign up or for a Company Service, (2) public data and posts that you share through the Company Services, (3) data that you have permitted social media to share with this Company, and (4) activity data when you access and interact with a Company Service.
+More specifically, the Company collects the following types of data from and about you: 
+
+  1.
+Registration datais the information you submit to register for a Company Service.
+Registration Information may include, for example, name, surname, email address, gender, country, postcode and birthday date.
+2.
+Public data and Postswhich consist of comments or content that you post on the Company Services and the personal data about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture.
+Public information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
+3.
+Data from Social Media.
+If you access or log-in to a Company Service through a social media service or connect a Company Service to a social media service, the data we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service.
+When you access the Company Services through social media services or when you connect a Company Service to social media services, you are authorizing the Company to collect, store, and use such data and content in accordance with this Privacy Policy.
+4.
+Activity Data.
+When you access and interact with the Company Services, we may collect certain information about those visits.
+For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information.
+If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device.
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons) and Adobe Flash technology commonly called “ Flash cookies”) may also be collected.
+These technologies may also be used to collect and store information about your usage of the Company Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
+For more information please visit our Cookie Policy.
+5.
+Information from Other Sources.
+We may supplement the information we collect with information from other sources, such as publicly available information from social media services and commercially available sources.
+We do notcollect:
+
+  Financial information from a payment service provider: in some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“ Payment Service”).
+If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage.
+Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy.
+We have no access to any payment data regarding the Payment Service.
+Sensitive information: we ask that you do not send us, and you do not disclose, any sensitive personal data (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Company Services or otherwise.
+Linked Services.The Company Services may also be linked to sites, including social media sites, operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies.
+The Company is not responsible for the privacy practices of unaffiliated companies, and once you leave the Company Services or click an advertisement you should check the applicable privacy policy of the other service.
+3.
+WHY DO WE COLLECT YOUR PERSONAL DATA?
+We use the personal data we collect from and about you to: 
+
+  1. a) Provide the Company Services and features to you;
+
+  2. b) Measure and improve those Company Services and features;
+
+  3. c) Improve your experience with both online and off-line Company Services by delivering content you will find relevant and interesting; 
+
+  4. d) Allow you to comment on content, and participate in online games, contests, or rewards programs;
+
+  5. e) Provide you with customer support and to respond to inquiries;
+
+  6. f) Protect the rights of the Company and others: more specifically, there may be instances when the Company may use your personal data, including situations where the Company has a good faith belief that such processing is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of the Company, our Company Affiliates or their employees, agents, contractors, licensors and suppliers (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Company Services or members of the public; or (iii) protect the Company, as well as other third parties involved, such as Company suppliers, against fraud or for risk management purposes; 
+
+  7. g) Comply with the law or legal obligation and/or to respond to requests from public and government authorities; 
+
+  8. h) Complete a corporate transaction, such as a proposed or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Company business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+For example if the Company is involved in a merger or transfer of all or a material part of its business, the Company may transfer your information to the party or parties involved in the transaction as part of that transaction; 
+
+  9. i) Allow social sharing functionality; if you log in with or connect a social media service account with the Company Services, we may share your user name, picture, and likes, as well as your activities and comments with other users of that Company Service and with your friends associated with your social media service.
+We may also share the same information with the social media service provider; 
+
+  10. j) With your prior consent, send you - via email, SMS, telephone, chat and social media - offers, promotions and other marketing communications regarding the Company Services and/or regarding the products and services of third parties operating in the entertainment sector, including group companies, as well as regarding co-branded services or features, such as contests or other promotions offered with a third party or Company Affiliate that may be hosted on the Company Services or on the Company Affiliate or third party's services; 
+
+  11. k) With your prior consent – send to you marketing communications customized to your interests and needs by means of the channels of communication set out under letter j) above.
+We may use anonymized personal data or information that no longer identifies you personally, even indirectly (e.g.
+statistics), for additional purposes or share it with third parties.
+4.
+ON WHAT LEGAL BASES DO WE PROCESS YOUR PERSONAL DATA?
+The processing of your personal data for the purposes of: 
+
+  Section 3, letters from a) to f) of this Privacy Policy is necessary for the provision of the Company Services and, therefore, it is mandatory since otherwise the services could not be provided; 
+
+  Section 3, letter g) of this Privacy Policy is mandatory, as it is required under applicable laws; and 
+
+  Section 3, letter h) of this Privacy Policy is performed on the basis of the the legitimate interest of the Company and of its counterparties to perform such economic activities, which is adequately balanced with your interest since the data processing is performed within the limits strictly necessary to perform such economic activities.
+This data processing activity is not mandatory and you can object at any time by contacting us at the email address in Section 11 of this Privacy Policy.
+On the contrary, the processing of: 
+
+  Section 3, letter i) is discretionary, but without your consent, it is impossible to connect to social media services account with the Company Service so that you will have to log to the Company Service using a different mechanism; 
+
+  Section 3, letters j) and k) is discretionary, but without your consent, it is impossible for the Company and/or third parties to provide you with (i) generic marketing communications of the Company and third parties’ services/products; (ii) communications based on your interests and needs; and (iii) co-branded services.
+You can revoke your consent to the processing of your personal data for the purposes as per Section 3, letters i) to k) at any time by sending a communication to the e-mail address of Section 11 below.
+Below you can find an explanatory chart on the matter above:
+
+Purpose of processing
+| 
+
+Legal Basis
+| 
+
+Voluntary or necessary provision of personal data 
+  
+---|---|---  
+  
+Section 3. a): Provision of Company Services 
+
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would make it impossible for us to provide the Company Services   
+  
+Section 3. b): Analysis and improvement of Company Services 
+
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would lead to impaired Services   
+  
+Section 3. c): Improvement of user experience 
+
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would lead to impaired Services   
+  
+Section 3. d): User interactions (comments, contests participation, etc.).
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would make it impossiblefor us to provide the Company Services   
+  
+Section 3. e): Customer support 
+
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would make it impossible for us to provide the Company Services   
+  
+Section 3. f): Protection of Company and third parties’ interests 
+
+| 
+
+Performance of contract 
+
+| 
+
+Provision is necessary
+
+Failure to provide data would make it impossible for us to provide the Company Services   
+  
+Section 3. g): Compliance with legal obligation 
+
+| 
+
+Legal obligation
+
+| 
+
+Provision is mandatory
+
+Failure to provide data would make it impossible to provide the Company Services   
+  
+Section 3. h): Corporate transaction 
+
+| 
+
+Legitimate interest 
+
+| 
+
+Provision is not mandatory
+
+You can exercise your right to object to processing, but the Company may continue to process your data in the case of compelling legitimate grounds, which override your interests, or for legal defense   
+  
+Section 3. i): Social media sharing 
+
+| 
+
+Consent 
+
+| 
+
+Provision is voluntary
+
+You can exercise your right to withdraw your consent at any time, without consequences, other than the need to log in with a different account   
+  
+Section 3. j): Generic marketing 
+
+| 
+
+Consent 
+
+| 
+
+Provision is voluntary
+
+You can exercise your right to withdraw your consent at any time, without consequences, in order to stop receiving marketing communications   
+  
+Section 3. k): Targeted marketing 
+
+| 
+
+Consent 
+
+| 
+
+Provision is voluntary
+
+You can exercise your right to withdraw your consent at any time, without consequences, in order to stop receiving marketing communications   
+  
+Should you wish to withdraw your consent, please contact us at the email address in Section 11 or, in the case of j) and k), select the unsubscribe link contained within any marketing communication.
+5.
+HOW DO WE PROCESS YOUR PERSONAL DATA?
+With regard to the above mentioned purposes, the data is processed through both electronic and manual means, and is protected through adequate security measures, taking into account the state of art, the costs of implementation and the nature, scope, context and purpose of processing as well as the risk of varying likelihood and severity for the rights and freedoms of individuals.
+In this regard, the Company uses appropriate administrative, technical, personnel and physical measures to safeguard personal data in its possession against loss, theft and unauthorized use, disclosure or modification.
+6. WHO HAS ACCESS TO YOUR PERSONAL DATA?
+For purposes consistent with the purposes as per Section 3 of this Privacy Policy, the Company may share your personal data to the following categories of recipients located within the European Union or outside of the European Union in compliance and within the limits of the provisions of Section 7 below: 
+
+Third party service providersentrusted with processing activities and duly appointed as processors when required by applicable laws, e.g.
+cloud service providers, other entities of the group, providers of services instrumental to or supporting the Company Services - and thus, by way of example and without limitation, companies that provide IT services, experts, consultants and lawyers.
+Companies resulting from corporate transactions, such as from possible mergers, demergers, or other transformations.
+Company Affiliates, in their capacity of data controllers or data processors.
+Our Affiliates include members of The Walt Disney Family of Companies (“Company Affiliates”).
+For further information on Company Affiliates please contact privacycontact@disney.com.
+Business partners.
+With your prior consent, the Company may share your personal data with usiness partners operating in the entertainment sector in order to send you marketing communications.
+Competent national authoritiesin order to comply with applicable laws.
+7.
+IS YOUR PERSONAL DATA TRANSFERRED ABROAD?
+Your personal data may be transferred to countries within and outside the European Economic Area, in particular to the United States.
+Some non EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards.
+The full list of these countries is available at <https://ec.europa.eu/info/law/law-topic/data-protectionen>.
+For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place appropriate and suitable safeguards designed to protect your personal data and the transfer of your personal data in compliance with applicable data protection laws, such as standard contractual clauses adopted by the European Commission as per Articles 45 and 46 of the EU General Data Protection Regulation 2016/679 (the “ Privacy Regulation*”).
+You have the right to request a copy of the above measure or further information on your personal data by contacting the Company at the address indicated in Section 11 of this Privacy Policy.
+8.
+WHAT ARE YOUR RIGHTS WITH REGARD TO YOUR PERSONAL DATA?
+You have the right, at any given time, to:
+
+  1. a) Obtain confirmation as to whether or not your personal data exist and to be informed of its content and source, verify its accuracy or request rectification, update or amendments; 
+
+  2. b) Request the deletion, conversion to an anonymous form or restriction of any personal data processed in breach of applicable law; 
+
+  3. c) Oppose its processing, in all cases, for legitimate reasons.
+In this regard, you may send your request to the address in Section 11 of this Privacy Policy.
+In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, suppress or delete.
+Remember that even after you cancel your account, or if you ask us to delete your personal data, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services or, for example, when retention of such copies is necessary to comply with legal obligation or legal defense.
+Because of the nature of caching technology, your account may not be instantly inaccessible to others.
+We may also retain backup information related to your account on our servers for some time after cancellation or your request for deletion, to comply with applicable law.
+We also give you many choices regarding our use and disclosure of your personal data for marketing purposes.
+You may revoke your consent, in any given time, for: 
+
+  Receiving electronic communications from us.
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by either simply changing your preferences on your user profile settings, if you registered, or by following the unsubscribe instructions in our communications.
+You may also send a request to the address of Section 11 of the Privacy Policy.
+In any case, the Company may continue to send you administrative communications related to the provision of the Company Services.
+Our sharing of your personal information with Company Affiliates or business partners for their marketing purposes.
+If you would prefer that we do not share your personal information on a going-forward basis with Company Affiliates and/or business partners for their direct marketing purposes, you may opt-out of this sharing by either simply changing your preferences on your user profile settings, if you registered, or by following the unsubscribe instructions in our communications or sending a request to the address of Section 11 of the Privacy Policy.
+In all the above cases, we may contact you and ask you for more information, that is necessary to properly handle your request.
+Also, the additional rights outlined in Section 9 below will be effective from May 25, 2018.
+9.
+WHAT IS GOING TO HAPPEN ON MAY 25, 2018?
+On 25 May 2018, the Privacy Regulation becomes effective and the following provisions will apply: 
+
+  1.
+A.
+Retention period applying to your personal data
+
+We will retain your data only for the period necessary to fulfill the purposes for which the data was collected as outlined in this Privacy Policy.
+In any case, the following retention periods will apply to the processing of your personal data for the purposes indicated below: 
+
+    Data collected for the purposes as per Section 3, letters from a) to h) of this Privacy Policy is retained for the time of provision of the Company Services plus the length of any applicable statutory limitation period following the termination of the Company Services; 
+
+    Data collected for the purpose as per Section 3, letter i) of this Privacy Policy is retained for the time necessary to log on to the Company Services through a social network; and 
+
+    Data collected for the purpose as per Section 3, letters j) and letter k) is retained for as long as necessary to fulfil the purposes we collected it for (e.g., to provide you with marketing communications).
+Should you decide to opt-out from receiving marketing communications, please note that we will be required to retain limited data in order for us to respect your opt-out and ensure that you do not receive marketing communications).
+At the end of the retention period, your personal data will be either cancelled, anonymized or aggregated.
+2.
+B.
+Additional rights
+
+
+
+
+In addition to the rights as indicated in paragraph 8 of this Privacy Policy, and further to the application of the Privacy Regulation, you will also have the right, in any given moment, to: 
+
+  1. a) Request that the Company limit the processing of your personal data where: 
+
+    You contest the accuracy of the personal data until we have taken sufficient steps to correct or verify its accuracy; 
+
+    The processing is unlawful but you do not want us to erase the data;
+
+    We no longer need the personal data for the purposes of the processing, but you require the personal data for the establishment, exercise or defense of legal claims; or 
+
+    Where you have objected to processing justified on legitimate interests grounds pending verification as to whether the Company has compelling legitimate grounds to continue processing.
+2. b) Object to the processing of your personal data; 
+
+  3. c) Request the erasure of your personal data without undue delay;
+
+  4. d) Receive an electronic copy of your personal data, that you have provided to us, if you would like to port your personal data to yourself or a different provider (“ data portability”), when the personal data is processed by automatic means and the processing is either (i) based upon your consent or (ii) the fact that the processing is necessary for the provision of the Company Service; and 
+
+  5. e) Lodge a complaint with the relevant supervisory authority.
+The UK supervisory authority for data protection issues is the Information Commissioner's Office (www.ico.org.uk).
+10.
+UPDATE TO THIS PRIVACY POLICY
+
+
+
+The Company may modify or update this Privacy Policy for any reason (including, but not limited to, changes in applicable law and interpretations, decisions, opinions and orders relating to such applicable law).
+Please look at the Effective Date at the top of this Privacy Policy to see when it was last revised.
+Any changes to this Privacy Policy will be provided in advance by posting the revised Privacy Policy on the Company Services.
+If we make material changes to this Privacy Policy that change the nature of processing or expand our rights to use the personal data we have already collected from you, we will notify you in advance and provide you with a choice about our future use of the personal data, as may be required by applicable law.
+11.
+CONTACT US
+
+
+
+If you have questions about this Privacy Policy, please contact the Company at the following email address intlprivacyemea@foxcustomercare.com.
+The following text is extracted and transformed from the 007b.com privacy policy that was archived on 2019-05-18.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy policy of 007b.com
+
+You can access and browse www.007b.com website without disclosing any of your personal information (such as name, address, telephone number, email address, or credit card information) nor do we collect information about our visitors from any public records.
+If you voluntarily submit any information to me via one of the contact forms (such as your email address), I may use that to contact you, or to answer your questions.
+We will not trade, sell or share your personal information that you voluntarily submit to us to any third party.
+Statistics/Analytics
+
+As with most other websites, this website collects statistical data about the website usage, collected by the hosting service (Dreamhost).
+The information collected includes your IP address, your ISP, the browser you used to visit our site, how you arrived at our site, the time you visited our site, which pages you visited throughout our site, and some basic information about your computer or device.
+The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on.
+Like most websites, we use this information to make our website better.
+Cookies
+
+When you visit 007b.com, there will be a third-party cookie set on your device from Sumo.
+Disabling cookies:You can withdraw your consent and remove or block cookies at any time using the settings in your browser.
+Learn how.
+Another option to block cookies is by managing preferences in your Internet security program.
+If you have an enquiry or concern about our privacy policy, please contact us at .
+The following text is extracted and transformed from the 007cpa.com privacy policy that was archived on 2015-09-21.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+007CPA.COM | PRIVACY POLICY
+
+PRIVACY POLICY
+
+
+PRIVACY POLICY  
+OF  
+007CPA, SA, AND ALL RELATED WEBSITES.
+* 
+LAST UPDATED MARCH 10, 2012 
+BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
+PLEASE NOTE: THIS PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING.
+PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES.
+WE DO NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
+This policy describes the information collection, use, and dissemination practices of 007CPA, and applies to 007CPA’s collection, use, storage and disclosure of information by 007CPA on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the “Websites”), (b) on various Third Party websites, and (c) to 007CPA‘s other information collection, including the purchase of customer lists from Third Parties.
+007CPA is not responsible for the information collection or privacy practices of Third Party websites or applications.
+CALIFORNIA RESIDENTS PRIVACY RIGHTS 
+Companies that collect personally identifiable information (“PII”) from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties.
+We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to 007CPA.
+In accordance with California Civil Code Sec.
+1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov  
+
+
+THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF  
+007CPA.
+* 
+1\.
+COLLECTION OF INFORMATION 
+1.1 SURVEY INFORMATION 
+007CPA collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by Third Parties (collectively, a “Survey”).
+(As used herein, “online” means using the Internet, including the Websites, and related technologies, and “offline” means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.)
+In the Surveys, 007CPA or a Third Party (a “Third Party”) may ask an individual to provide various information to 007CPA, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, “Survey Information”).
+007CPA may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site.
+Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to 007CPA or Third Party, but an individual may receive incentives from 007CPA or a Third Party in exchange for providing Survey Information to 007CPA.
+1.2 SITE MEMBERSHIP OR REGISTRATION 
+To the extent registration is required to receive email and possibly postal communications from 007CPA or a Third Party Advertiser, this Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from 007CPA or a Third Party Advertiser, whether at our Website, via email, on Third Party websites or otherwise.
+We collect information in certain portions of our Website, where guests provide content submissions and suggestions or participate in interactive online activities (i.e., by way of responding to questions and surveys, community listings, ratings, searches and comparison searches, bidding, purchasing, chat, games, or bulletin boards, etc.).
+The personal profile information you submit to 007CPA or Third Party Advertisers remains your property, but by submitting that information to 007CPA or Third Party Advertisers, you grant 007CPA and/or Third Party Advertisers, the right to use that information for marketing purposes.
+007CPA or Third Party Advertisers may also use such information for content improvement and feedback purposes.
+We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to you.
+These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation.
+In addition, 007CPA reserves the right to release current or past information in the event 007CPA believes that the information is being or has been used in violation of the Rules or to commit unlawful acts, if the information is subpoenaed, if 007CPA is sold or acquired, or when 007CPA deems it necessary or appropriate.
+By agreeing to these terms, you hereby consent to disclosure of any record or communication to any Third Party when 007CPA in its sole discretion, determines the disclosure to be appropriate.
+“Subscription” occurs when an end-user registers for 007CPA’s and/or Third Party Advertisers’ services, either via registration at our website, via co-registration at a marketing partner’s website, or via a permission pass / opt-out / no-opt mailing 007CPA collects personally identifiable information about our subscribers, based on: information gathered at the time of registration, subscriber interaction and response to subsequent electronic mailings and website use, information provided by marketing partners, and information appended from data aggregators.
+Information collected may include, but is not necessarily limited to: name, email address, postal address, gender, birth date, telephone number, activity, interests, user behavior and other demographic information.
+This information enables us to better tailor our content to subscribers’ needs and to help our clients to promote and sell their products and services.
+1.3 THIRD PARTY LIST INFORMATION 
+007CPA collects information from individuals when an individual provides information to a Third Party and 007CPA subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the “Seller”).
+Such purchased information may include, but is not limited to, an individual’s name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, “Third Party List Information”).
+When acquiring Third Party List Information, 007CPA seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to 007CPA and that the Seller has a right to provide offers from Advertisers to the individuals whose personal information is included on the Seller’s list.
+1.4 OTHER INFORMATION 
+Other occasions when 007CPA obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by 007CPA or by a Third Party, (2) when an individual requests assistance through 007CPA’s customer service department, (3) when an individual voluntarily subscribes to a service or newsletter; (4) when private information is provided by means of a referral by a third party to 007CPA or a Third Party Advertiser (together, “Other Information”).
+1.5 COOKIES, WEB BEACONS, AND OTHER INFO COLLECTED USING TECHNOLOGY 
+007CPA currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database.
+Additionally, 007CPA may use other new and evolving sources of information in the future (together, “Technology Information”).
+A.
+COOKIES
+A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows 007CPA to identify the individual with his or her corresponding data that resides in 007CPA’s database.
+You may read more about cookies at http://cookiecentral.com.
+Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
+B.
+WEB BEACONS
+A web beacon is programming code that can be used to display an image on a web page (by using an <img src=”x”> programming function — see http://truste.org for more information), but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database.
+This allows 007CPA to track certain websites an individual visits online.
+Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes.
+For example, 007CPA might place, with the consent of a Third Party website, a web beacon on the Third Party’s website where cosmetics are sold.
+When Jane, an individual listed in 007CPA’s database, visits the cosmetic website, 007CPA receives notice by means of the web beacon that Jane visited the cosmetics site, and 007CPA would then update Jane’s profile with the information that Jane is interested in cosmetics.
+007CPA may thereafter present offers of cosmetic related products and services to Jane.
+In addition to using web beacons on web pages, 007CPA also uses web beacons in email messages sent to individuals listed in 007CPA’s database.
+C. NEW TECHNOLOGY
+The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is 007CPA’suse of new and evolving technology.
+As a result, 007CPAstrongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+D. USAGE TRACKING
+007CPA tracks information related to the electronic mailings and web pages viewed by users and subscribers, as well as the hyperlinks clicked by subscribers, while viewing our emails or visiting our websites.
+E. LOG FILES
+Log files are used to track and monitor subscriber usage.
+F. OPTIONAL REGISTRATION
+007CPA may offer free voluntary registration to potential subscribers.
+During such registration, the subscriber is required to supply an email address and other personal information.
+This information is required if the subscriber wants to participate in Company services or Third Party Services.
+G. FEEDBACK AND INQUIRIES
+You have the ability to contact 007CPA to provide us with your feedback.
+007CPA uses this information to respond to you and analyze customer service issues.
+1.6 OUTSIDE INFORMATION 
+007CPA may receive information about individuals from Third Parties or from other sources of information outside of 007CPA including information located in public databases (“Outside Information”).
+1.7 INDIVIDUAL INFORMATION 
+As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information 007CPA gathers or receives about individuals.
+1.8 NO INFORMATION COLLECTED FROM CHILDREN 
+007CPA will never knowingly collect any personal information about children under the age of 18.
+If 007CPA obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from our database.
+Because it does not collect such information, 007CPA has no such information to use or to disclose to Third Parties.
+007CPA has designed this policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).
+1.9 CREDIT CARD INFORMATION 
+007CPA may in certain cases collect credit card numbers and related information, such as the expiration date of the card (“Credit Card Information”) when an individual places an order from 007CPA.
+When the Credit Card Information is submitted to 007CPA, such information is encrypted and is protected with SSL encryption software.
+007CPA will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction.
+Although 007CPA takes all commercially reasonable action to protect Credit Card Information, you ultimately assume the risk of any damage or loss as a result of transmitting such information to 007CPA, including but not limited to, identify theft, credit card fraud or credit card loss.
+1.10 LINKS TO EXTERNAL WEBSITES 
+007CPA’s emails and websites contain links to external websites.
+You will be taken to external websites if you click on these links.
+Your information may be passed from 007CPA’s database to the external website, and/or external database, for your convenience (e.g.
+your information may be used to pre-fill a form at a destination website).
+007CPA is not responsible for the privacy practices or content of any external website owner.
+We encourage you to review the privacy policy of any website they visit.
+2\.
+USE OF INDIVIDUAL INFORMATION 
+2.1 DISCRETION OF INFORMATION 
+THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY’S SOLE DISCRETION.
+The following paragraphs in Section 2 describe how 007CPA currently uses Individual Information, but 007CPA may change or broaden its use at any time.
+As noted below, 007CPA may update this policy from time to time.
+007CPA may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
+2.2 EMAIL AND UNSUBSCRIBE POLICY 
+007CPA uses Individual Information to provide promotional offers by email to individuals.
+007CPA may maintain separate email lists for different purposes.
+If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.
+To unsubscribe from all 007CPA’s email lists, a person must send an email to admin@007cpa.com.
+007CPA’s unsubscribe process impacts only the future delivery of electronic mailings disseminated by 007CPA on its own behalf.
+You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
+You should also note that unsubscribing from 007CPA’s electronic mailings will not automatically unsubscribe the subscriber’s information from any Third Party associates and licensees of the data.
+Since Third Party associates and licensee partners maintain separate databases from 007CPA, and you will need to unsubscribe from each source individually, if desired.
+This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue.
+2.3 CONTENT OF EMAIL MESSAGES 
+In certain commercial email messages sent by 007CPA, an Advertiser’s name will appear in the “From:” line but hitting the “Reply” button will cause a reply email to be sent to 007CPA.
+The “Subject:” line of 007CPA email messages will usually contain a line provided from the Advertiser to 007CPA.
+2.4 SOLICITED EMAIL 
+007CPA only sends email to individuals who have agreed on the Websites to receive email from 007CPA or to individuals who have agreed on Third Party websites to receive email from Third Parties.
+As such 007CPA does not send unsolicited email messages.
+As a result, statutes requiring certain formatting for unsolicited email are not applicable to 007CPA’s email messages.
+2.5 TARGETED ADVERTISING 
+007CPA uses Individual Information to target advertising to an individual.
+When an individual is using the Internet, 007CPA uses Technology Information (see also Section 2.7 below) to associate an individual with that person’s Individual Information, and 007CPA attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise.
+007CPA may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
+2.6 DIRECT MAIL AND TELEMARKETING 
+007CPA uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.
+2.7 USE OF TECHNOLOGY INFORMATION 
+007CPA uses Technology Information (1) to match a person’s Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person’s online browsing habits on the Internet, (3) to determine which areas of 007CPA’s websites are most frequently visited.
+This information helps 007CPA to better understand the online habits of individuals so that 007CPA can target advertising and promotions to them.
+2.8 PROFILES OF INDIVIDUALS 
+007CPA uses Individual Information to make a profile of an individual.
+A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as behavioral and other information obtained from public databases.
+007CPA may also publish personal information in the form of a testimonial if such information is sent to 007CPA by you.
+2.9 STORAGE OF INDIVIDUAL INFORMATION 
+007CPA stores the Individual Information in a database on our computers.
+Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under 007CPA’s control.
+Notwithstanding such measures, 007CPA cannot guarantee that its security measures will prevent our computers from being illegally accessed, and the Individual Information on them stolen or altered.
+3\.
+DISSEMINATION OF INDIVIDUAL INFORMATION 
+3.1 SALE OR TRANSFER TO THIRD PARTIES 
+007CPA MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN 007CPA’S SOLE DISCRETION.
+3.2 ORDER FULFILLMENT 
+007CPA will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using 007CPA websites or when responding to offers provided by 007CPA.
+3.3 LEGAL PROCESS 
+007CPA may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
+3.4 SUMMARY DATA 
+007CPA may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+3.5 ACCESS 
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information.
+Access can be obtained by contacting admin@007cpa.com.
+007CPA may also grant advertising clients and email services providers’ access to an individual’s email address to verify the origin of the Individual Information collected.
+4\.
+PRIVACY PRACTICES OF THIRD PARTIES 
+4.1 ADVERTISER COOKIES AND WEB BEACONS 
+Advertising agencies, advertising networks, and other companies (together, “Advertisers”) who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals.
+007CPA does not control Advertisers’ use of such technology and 007CPA has no responsibility for the use of such technology to gather information about individuals.
+4.2 LINKS 
+The Websites and email messages sometimes contain hypertext links to the websites of Third Parties.
+007CPA is not responsible for the privacy practices or the content of such other websites.
+Linked websites may contain links to websites maintained by Third Parties.
+Such links are provided for your convenience and reference only.
+007CPA does not operate or control in any respect any information, software, products or services available on such Third Party websites.
+The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
+4.3 AFFILIATED COMPANIES 
+007CPA may disclose, transfer, and sell Individual Information to entities affiliated with 007CPA in 007CPA’s discretion.
+5\.
+UNSUBSCRIBE PROCEDURES 
+If you wish to discontinue receiving email messages from 007CPA, you have several options:
+
+A. UNSUBSCRIBE FROM ONE EMAIL LIST
+To unsubscribe from a particular list, either (1) send an email to admin@007cpa.com or (2) follow the instructions in each promotional email message sent by 007CPA.
+B. UNSUBSCRIBE FROM ALL OF 007CPA’S EMAIL LISTS
+We reserve the right to add Individual Information to multiple lists maintained by 007CPA.
+To globally unsubscribe from all of 007CPA’s lists, send an email to admin@007cpa.com.
+The following text is extracted and transformed from the 007names.com privacy policy that was archived on 2018-09-09.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+
+007Names, Inc. knows that you care how information about you is shared and we appreciate your faith that we will do so judiciously.
+This notice describes our privacy policy.
+By visiting the 007Names, Inc. website, you are accepting the practices described in the Privacy Notice.
+If you have any questions regarding our privacy policy, please contact info@007names.com.
+Information We Collect About Our Customers
+
+Supplied Information:
+
+We store and receive any information entered on our website or provide us through any other means.
+We utilize this information that you provide to contact you, provide services for you, and respond to your requests.
+Required Information:
+
+We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect certain information.
+This includes: your full name, mailing address, phone number, email address, the creation and expiration dates of your domain name, the name server information associated with the domain name, and where available, your fax number.
+Information Provided by Your Browser:
+
+In addition to the above information, our web server collects the following information, automatically supplied by your browser, so that we may better serve you in the future and to analyze demographic trends.
+This includes: the type of web browser you are using, the page you link from 007names.com, operating system and platform, and Internet Protocol (IP) address.
+Your IP address is used to study trends, diagnose problems with our server, and to administer our website.
+Cookies:
+
+We employ the use of "cookies" to help tailor our site to you as well as provide services.
+Cookies are text files placed by a website on your hard drive allowing us to identify your computer.
+The only personal information a cookie can contain is information you supply yourself.
+A cookie can't read data off your hard disk or read cookies created by other sites.
+The purpose of this is to enable us to regulate the online ordering process by preserving the state of your online orders.
+Information We Share
+
+Required Information:
+
+We are required by ICANN to make available the following required information provided to us during the domain name registration process.
+This information includes: your full name, mailing address, phone number, email address, the creation and expiration dates of your domain name, the name server information associated with your domain name, and where available, your fax number.
+This information will be publicly available to anyone via a "port 43" WHOIS service.
+Please note: we may not be able to control how members of the public use the information obtainable via WHOIS.
+Legal Circumstances:
+
+When we are required to do so by law, court order, or any other government agency or to comply with our Service Agreement, or to protect the rights, property, or safety of 007Names, Inc. our users, or others, we may release account and other personal information.
+Business Transfers:
+
+In the event 007Names, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users personal information will, in most instances, be part of the assets transferred.
+Security: SSL Encryption
+
+We protect your financial transactions by employing the use of Secure Sockets Layer technology, which encrypts the information you send to us via the website.
+Information Available to You:
+
+In the event of a change or inaccuracy in your user information, we permit you to update your user information by logging in to your account.
+Links to Other Sites:
+
+007names.com web site may contain links to other websites.
+Please be aware that we, 007Names, Inc., are not responsible for the privacy practices of such other sites.
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+This privacy statement applies solely to information collected by this website.
+Children:
+
+007Names, Inc. does not intentionally collect information from children under the age of 13.
+If you are under 18, you may use our services only with the supervision of a parent or legal guardian.
+Conditions of Use, Notices, and Revisions:
+
+By choosing to visit our website, www.007names.com, you hereby agree that your visit and any dispute you have regarding the protection of your privacy during this visit is subject to our Disclaimer, this Notice, and our Terms of Agreement, including but not limited to our limitations of liability, disputes, and application of the law of the state of New Jersey.
+If you have any questions or concerns regarding our privacy policy, please send email to info@007names.com and we will attempt to resolve them.
+Please note that our business changes constantly and so our privacy policy and Terms of Agreement are also subject to change.
+Any changes are effective immediately upon posting on the 007names.com website.
+You are responsible for checking our website frequently to keep apprised of recent changes.
+Use of information that we gather now will be subject to the Privacy Notice in effect at the time of use.
+By using our website, you confirm that you have read, understood, and agreed to be bound by the terms as stated in this privacy policy.
+The following text is extracted and transformed from the 00extreme.com privacy policy that was archived on 2012-06-17.
+Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+
+Overview
+Thank you for visiting www.00extreme.com (the "Web Site") and reviewing our Privacy Policy.
+Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information.
+This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+What Type of Information We Collect
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software.
+Such information may include the date and time of your visit, the originating IP address, and the pages and images requested.
+We partner with a limited number of third party behavioral advertising companies.
+In some cases, these companies serve ads and/or collect certain information when you visit the Web Site.
+The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media.
+Uses May Include
+  We may use personal information to provide the services you've requested, including services that display customized content and advertising.
+We may also use personal information for auditing, research and analysis to operate and improve our technologies and services.
+We may share aggregated non-personal information with third parties outside of The Web Site.
+When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
+The Web Site processes personal information on servers in the United States of America.
+In some cases, we process personal information on a server outside your own country.
+If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.

@@ -1,5 +1,8 @@
 # Custom
 trained_model/
+trained_model_test/
+trained_model_v1/
+data_no_processed.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -31,7 +31,6 @@ texts_train, texts_val, labels_train, labels_val = generate_input_text(KEY_TERMS
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 train_encodings = tokenizer(texts_train, truncation=True, padding='max_length', max_length=MAX_LENGTH, return_tensors="tf")
 val_encodings = tokenizer(texts_val, truncation=True, padding='max_length', max_length=MAX_LENGTH, return_tensors="tf")
-import pdb; pdb.set_trace()
 
 # 3. Model Compilation
 model = SummarizerBERT(VOCAB_SIZE, EMBED_SIZE, NUM_LAYERS, HEADS, FORWARD_EXPANSION, DROPOUT, MAX_LENGTH)

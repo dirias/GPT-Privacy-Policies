@@ -15,7 +15,7 @@ class SummarizerBERT(tf.keras.Model):
         input_tensor, mask = x
         embeddings = self.bert([input_tensor, mask])
         
-        # Extract [CLS] embeddings (assuming [CLS] is at position 0 for each sentence)
+        # Extract [CLS] embeddings
         cls_embeddings = embeddings[:, 0, :]
         
         # Score each sentence
